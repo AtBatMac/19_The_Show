@@ -1,0 +1,31 @@
+Team_x,Team,double,double_play,field_out,home_run,ignore,single,strikeout,triple,walk,batters_faced_count
+Arizona Diamondbacks,Arizona Diamondbacks Bullpen,0.044,0.022,0.403,0.027,0.015,0.144,0.238,0.007,0.1,1263
+Atlanta Braves,Atlanta Braves Bullpen,0.032,0.021,0.418,0.033,0.01,0.15,0.25,0.004,0.083,969
+Baltimore Orioles,Baltimore Orioles Bullpen,0.049,0.019,0.395,0.032,0.017,0.138,0.226,0.004,0.12,1082
+Boston Red Sox,Boston Red Sox Bullpen,0.045,0.017,0.361,0.024,0.012,0.12,0.296,0.003,0.121,1161
+Chicago Cubs,Chicago Cubs Bullpen,0.036,0.04,0.396,0.031,0.014,0.139,0.228,0.004,0.111,1323
+Chicago White Sox,Chicago White Sox Bullpen,0.045,0.038,0.447,0.033,0.012,0.099,0.228,0.003,0.096,606
+Cincinnati Reds,Cincinnati Reds Bullpen,0.038,0.019,0.404,0.037,0.011,0.122,0.272,0.003,0.094,1024
+Cleveland Indians,Cleveland Indians Bullpen,0.049,0.02,0.417,0.028,0.005,0.129,0.276,0.001,0.075,797
+Colorado Rockies,Colorado Rockies Bullpen,0.048,0.028,0.422,0.031,0.012,0.145,0.217,0.006,0.091,1117
+Detroit Tigers,Detroit Tigers Bullpen,0.035,0.02,0.412,0.038,0.017,0.115,0.249,0.008,0.105,706
+Houston Astros,Houston Astros Bullpen,0.037,0.012,0.447,0.031,0.014,0.127,0.25,0.006,0.076,1092
+Kansas City Royals,Kansas City Royals Bullpen,0.051,0.02,0.436,0.03,0.013,0.164,0.197,0.003,0.086,980
+Los Angeles Angels,Los Angeles Angels Bullpen,0.041,0.02,0.427,0.031,0.01,0.14,0.229,0.005,0.097,1498
+Los Angeles Dodgers,Los Angeles Dodgers Bullpen,0.038,0.019,0.427,0.035,0.01,0.108,0.267,0.004,0.092,1071
+Miami Marlins,Miami Marlins Bullpen,0.046,0.026,0.378,0.034,0.016,0.143,0.243,0.009,0.105,874
+Milwaukee Brewers,Milwaukee Brewers Bullpen,0.033,0.022,0.403,0.033,0.012,0.131,0.266,0.005,0.095,1200
+Minnesota Twins,Minnesota Twins Bullpen,0.038,0.015,0.418,0.029,0.014,0.146,0.263,,0.076,851
+New York Mets,New York Mets Bullpen,0.049,0.022,0.366,0.034,0.012,0.145,0.267,0.002,0.104,946
+New York Yankees,New York Yankees Bullpen,0.035,0.023,0.367,0.029,0.014,0.132,0.293,0.001,0.105,1072
+Oakland Athletics,Oakland Athletics Bullpen,0.041,0.017,0.424,0.025,0.02,0.136,0.244,0.006,0.089,1083
+Philadelphia Phillies,Philadelphia Phillies Bullpen,0.04,0.021,0.414,0.038,0.021,0.144,0.226,0.004,0.092,1119
+Pittsburgh Pirates,Pittsburgh Pirates Bullpen,0.042,0.022,0.402,0.033,0.008,0.132,0.246,0.003,0.113,1173
+San Diego Padres,San Diego Padres Bullpen,0.048,0.015,0.431,0.036,0.012,0.146,0.249,0.003,0.059,1079
+San Francisco Giants,San Francisco Giants Bullpen,0.029,0.029,0.415,0.02,0.009,0.144,0.272,0.005,0.076,1087
+Seattle Mariners,Seattle Mariners Bullpen,0.044,0.023,0.419,0.046,0.008,0.152,0.222,0.003,0.084,657
+St. Louis Cardinals,St. Louis Cardinals Bullpen,0.036,0.025,0.407,0.035,0.013,0.129,0.253,0.003,0.099,1370
+Tampa Bay Rays,Tampa Bay Rays Bullpen,0.045,0.026,0.431,0.027,0.007,0.133,0.24,0.003,0.087,1219
+Texas Rangers,Texas Rangers Bullpen,0.043,0.02,0.408,0.042,0.011,0.13,0.25,0.005,0.092,856
+Toronto Blue Jays,Toronto Blue Jays Bullpen,0.058,0.015,0.417,0.037,0.013,0.113,0.257,0.002,0.088,1222
+Washington Nationals,Washington Nationals Bullpen,0.047,0.019,0.39,0.026,0.014,0.16,0.244,0.004,0.096,848

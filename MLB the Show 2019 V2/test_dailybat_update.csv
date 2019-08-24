@@ -1,0 +1,130 @@
+,Player_x,Player_y,Team_x,Position_x,Role_x,Roster_x,key_mlbam,daily player reformat
+0,ronald acuna,ronald acuña jr.,Atlanta Braves,Outfield,Batter,Active,660670,ronald acuna
+1,ozzie albies,ozzie albies,Atlanta Braves,Infield,Batter,Active,645277,ozzie albies
+2,freddie freeman,freddie freeman,Atlanta Braves,Infield,Batter,Active,518692,freddie freeman
+3,josh donaldson,josh donaldson,Atlanta Braves,Infield,Batter,Active,518626,josh donaldson
+4,austin riley,austin riley,Atlanta Braves,Outfield,Batter,Active,663586,austin riley
+5,tyler flowers,tyler flowers,Atlanta Braves,Catcher,Batter,Active,452095,tyler flowers
+6,adam duvall,adam duvall,Atlanta Braves,Outfield,Batter,Active,594807,adam duvall
+7,johan camargo,johan camargo,Atlanta Braves,Infield,Batter,Active,622666,johan camargo
+8,dallas keuchel,dallas keuchel,Atlanta Braves,Pitcher,Starter,Active,572971,dallas keuchel
+9,adam eaton,adam eaton,Washington Nationals,Outfield,Batter,Active,594809,adam eaton
+10,trea turner,trea turner,Washington Nationals,Infield,Batter,Active,607208,trea turner
+11,anthony rendon,anthony rendon,Washington Nationals,Infield,Batter,Active,543685,anthony rendon
+12,juan soto,juan soto,Washington Nationals,Outfield,Batter,Active,665742,juan soto
+13,howie kendrick,howie kendrick,Washington Nationals,Infield,Batter,Active,435062,howie kendrick
+14,kurt suzuki,kurt suzuki,Washington Nationals,Catcher,Batter,Active,435559,kurt suzuki
+15,brian dozier,brian dozier,Washington Nationals,Infield,Batter,Active,572821,brian dozier
+16,victor robles,víctor robles,Washington Nationals,Outfield,Batter,Active,645302,victor robles
+17,patrick corbin,patrick corbin,Washington Nationals,Pitcher,Starter,Active,571578,patrick corbin
+18,adam frazier,adam frazier,Pittsburgh Pirates,Infield,Batter,Active,624428,adam frazier
+19,bryan reynolds,bryan reynolds,Pittsburgh Pirates,Outfield,Batter,Active,668804,bryan reynolds
+20,starling marte,starling marte,Pittsburgh Pirates,Outfield,Batter,Active,516782,starling marte
+21,josh bell,josh bell,Pittsburgh Pirates,Infield,Batter,Active,605137,josh bell
+22,corey dickerson,corey dickerson,Pittsburgh Pirates,Outfield,Batter,Active,572816,corey dickerson
+23,colin moran,colin moran,Pittsburgh Pirates,Infield,Batter,Active,592567,colin moran
+24,kevin newman,kevin newman,Pittsburgh Pirates,Infield,Batter,Active,621028,kevin newman
+25,elias diaz,elías díaz,Pittsburgh Pirates,Catcher,Batter,Active,553869,elias diaz
+26,jordan lyles,jordan lyles,Pittsburgh Pirates,Pitcher,Starter,Active,543475,jordan lyles
+27,nick senzel,nick senzel,Cincinnati Reds,Infield,Batter,Active,669222,nick senzel
+28,joey votto,joey votto,Cincinnati Reds,Infield,Batter,Active,458015,joey votto
+29,eugenio suarez,eugenio suárez,Cincinnati Reds,Infield,Batter,Active,553993,eugenio suarez
+30,yasiel puig,yasiel puig,Cincinnati Reds,Outfield,Batter,Active,624577,yasiel puig
+31,jesse winker,jesse winker,Cincinnati Reds,Outfield,Batter,Active,608385,jesse winker
+32,scooter gennett,scooter gennett,Cincinnati Reds,Outfield,Batter,Active,571697,scooter gennett
+33,jose iglesias,josé iglesias,Cincinnati Reds,Infield,Batter,Active,578428,jose iglesias
+34,jose iglesias,jose iglesias,Cincinnati Reds,Outfield,Batter,Active,578428,jose iglesias
+35,tucker barnhart,tucker barnhart,Cincinnati Reds,Catcher,Batter,Active,571466,tucker barnhart
+36,sonny gray,sonny gray,Cincinnati Reds,Pitcher,Starter,Active,543243,sonny gray
+37,ketel marte,ketel marte,Arizona Diamondbacks,Infield,Batter,Active,606466,ketel marte
+38,eduardo escobar,eduardo escobar,Arizona Diamondbacks,Infield,Batter,Active,500871,eduardo escobar
+39,adam jones,adam jones,Arizona Diamondbacks,Outfield,Batter,Active,430945,adam jones
+40,david peralta,david peralta,Arizona Diamondbacks,Outfield,Batter,Active,444482,david peralta
+41,christian walker,christian walker,Arizona Diamondbacks,Infield,Batter,Active,572233,christian walker
+42,wilmer flores,wilmer flores,Arizona Diamondbacks,Infield,Batter,Active,527038,wilmer flores
+43,nick ahmed,nick ahmed,Arizona Diamondbacks,Infield,Batter,Active,605113,nick ahmed
+44,carson kelly,carson kelly,Arizona Diamondbacks,Catcher,Batter,Active,608348,carson kelly
+45,merrill kelly,merrill kelly,Arizona Diamondbacks,Pitcher,Starter,Active,518876,merrill kelly
+46,miguel rojas,miguel rojas,Miami Marlins,Infield,Batter,Active,500743,miguel rojas
+47,neil walker,neil walker,Miami Marlins,Infield,Batter,Active,435522,neil walker
+48,garrett cooper,garrett cooper,Miami Marlins,Outfield,Batter,Active,643265,garrett cooper
+49,brian anderson,brian anderson,Miami Marlins,Infield,Batter,Active,605119,brian anderson
+50,starlin castro,starlin castro,Miami Marlins,Infield,Batter,Active,516770,starlin castro
+51,jorge alfaro,jorge alfaro,Miami Marlins,Catcher,Batter,Active,595751,jorge alfaro
+52,harold ramirez,harold ramirez,Miami Marlins,Catcher,Batter,Active,623912,harold ramirez
+53,cesar puello,cesar puello,Los Angeles Angels,Infield,Batter,Active,527049,cesar puello
+54,caleb smith,caleb smith,Miami Marlins,Pitcher,Starter,Active,592761,caleb smith
+55,cavan biggio,cavan biggio,Toronto Blue Jays,Infield,Batter,Active,624415,cavan biggio
+56,freddy galvis,freddy galvis,Toronto Blue Jays,Infield,Batter,Active,520471,freddy galvis
+57,lourdes gurriel,lourdes gurriel jr.,Toronto Blue Jays,Outfield,Batter,Active,666971,lourdes gurriel
+58,justin smoak,justin smoak,Toronto Blue Jays,Infield,Batter,Active,475253,justin smoak
+59,vladimir guerrero jr.,vladimir guerrero jr.,Toronto Blue Jays,Infield,Batter,Active,665489,vladimir guerrero jr.
+60,randal grichuk,randal grichuk,Toronto Blue Jays,Outfield,Batter,Active,545341,randal grichuk
+62,teoscar hernandez,teoscar hernández,Toronto Blue Jays,Outfield,Batter,Active,606192,teoscar hernandez
+63,danny jansen,danny jansen,Toronto Blue Jays,Catcher,Batter,Active,643376,danny jansen
+64,whit merrifield,whit merrifield,Kansas City Royals,Infield,Batter,Active,593160,whit merrifield
+65,cheslor cuthbert,cheslor cuthbert,Kansas City Royals,Outfield,Batter,Active,596144,cheslor cuthbert
+66,hunter dozier,hunter dozier,Kansas City Royals,Infield,Batter,Active,641531,hunter dozier
+67,jorge soler,jorge soler,Kansas City Royals,Outfield,Batter,Active,624585,jorge soler
+68,bubba starling,bubba starling,Kansas City Royals,Outfield,Batter,Active,605490,bubba starling
+69,nicky lopez,nicky lopez,Kansas City Royals,Infield,Batter,Active,670032,nicky lopez
+70,humberto arteaga,humberto arteaga,Kansas City Royals,Outfield,Batter,Active,600858,humberto arteaga
+71,cam gallagher,cam gallagher,Kansas City Royals,Catcher,Batter,Active,595956,cam gallagher
+72,billy hamilton,billy hamilton,Kansas City Royals,Outfield,Batter,Active,571740,billy hamilton
+73,joc pederson,joc pederson,Los Angeles Dodgers,Outfield,Batter,Active,592626,joc pederson
+74,alex verdugo,alex verdugo,Los Angeles Dodgers,Outfield,Batter,Active,657077,alex verdugo
+75,justin turner,justin turner,Los Angeles Dodgers,Infield,Batter,Active,457759,justin turner
+76,cody bellinger,cody bellinger,Los Angeles Dodgers,Outfield,Batter,Active,641355,cody bellinger
+77,max muncy,max muncy,Los Angeles Dodgers,Infield,Batter,Active,571970,max muncy
+78,corey seager,corey seager,Los Angeles Dodgers,Infield,Batter,Active,608369,corey seager
+79,a.j. pollock,a. j. pollock,Los Angeles Dodgers,Outfield,Batter,Active,572041,a.j. pollock
+80,will smith,will smith,Los Angeles Dodgers,Catcher,Batter,Active,519293,will smith
+81,will smith,will smith,San Francisco Giants,Pitcher,Bullpen,Active,519293,will smith
+82,kenta maeda,kenta maeda,Los Angeles Dodgers,Pitcher,Starter,Active,628317,kenta maeda
+83,charlie blackmon,charlie blackmon,Colorado Rockies,Outfield,Batter,Active,453568,charlie blackmon
+84,trevor story,trevor story,Colorado Rockies,Infield,Batter,Active,596115,trevor story
+85,david dahl,david dahl,Colorado Rockies,Outfield,Batter,Active,621311,david dahl
+86,nolan arenado,nolan arenado,Colorado Rockies,Infield,Batter,Active,571448,nolan arenado
+87,daniel murphy,daniel murphy,Colorado Rockies,Infield,Batter,Active,502517,daniel murphy
+88,ian desmond,ian desmond,Colorado Rockies,Outfield,Batter,Active,435622,ian desmond
+89,ryan mcmahon,ryan mcmahon,Colorado Rockies,Infield,Batter,Active,641857,ryan mcmahon
+90,tony wolters,tony wolters,Colorado Rockies,Catcher,Batter,Active,547172,tony wolters
+91,jon gray,jon gray,Colorado Rockies,Pitcher,Starter,Active,592351,jon gray
+92,jacoby jones,jacoby jones,Detroit Tigers,Outfield,Batter,Active,592444,jacoby jones
+93,harold castro,harold castro,Detroit Tigers,Outfield,Batter,Active,605612,harold castro
+94,miguel cabrera,miguel cabrera,Detroit Tigers,Infield,Batter,Active,408234,miguel cabrera
+95,nicholas castellanos,nicholas castellanos,Detroit Tigers,Outfield,Batter,Active,592206,nicholas castellanos
+96,christin stewart,christin stewart,Detroit Tigers,Outfield,Batter,Active,621514,christin stewart
+97,christin stewart,christin stewart,Detroit Tigers,Infield,Batter,Active,621514,christin stewart
+98,niko goodrum,niko goodrum,Detroit Tigers,Outfield,Batter,Active,592348,niko goodrum
+99,jeimer candelario,jeimer candelario,Detroit Tigers,Infield,Batter,Active,600869,jeimer candelario
+100,john hicks,john hicks,Detroit Tigers,Catcher,Batter,Active,543308,john hicks
+101,jordy mercer,jordy mercer,Detroit Tigers,Infield,Batter,Active,474568,jordy mercer
+102,david fletcher,david fletcher,Los Angeles Angels,Infield,Batter,Active,664058,david fletcher
+103,mike trout,mike trout,Los Angeles Angels,Outfield,Batter,Active,545361,mike trout
+104,mike trout,mike trout,Los Angeles Angels,Infield,Batter,Active,545361,mike trout
+105,shohei ohtani,shohei ohtani,Los Angeles Angels,Outfield,Batter,Active,660271,shohei ohtani
+106,justin upton,justin upton,Los Angeles Angels,Outfield,Batter,Active,457708,justin upton
+107,andrelton simmons,andrelton simmons,Los Angeles Angels,Infield,Batter,Active,592743,andrelton simmons
+108,albert pujols,albert pujols,Los Angeles Angels,Infield,Batter,Active,405395,albert pujols
+109,kole calhoun,kole calhoun,Los Angeles Angels,Outfield,Batter,Active,594777,kole calhoun
+110,luis rengifo,luis rengifo,Los Angeles Angels,Infield,Batter,Active,650859,luis rengifo
+111,kevan smith,kevan smith,Los Angeles Angels,Catcher,Batter,Active,607345,kevan smith
+112,jonathan villar,jonathan villar,Baltimore Orioles,Infield,Batter,Active,542340,jonathan villar
+113,trey mancini,trey mancini,Baltimore Orioles,Outfield,Batter,Active,641820,trey mancini
+114,chance sisco,chance sisco,Baltimore Orioles,Catcher,Batter,Active,642082,chance sisco
+115,renato nunez,renato núñez,Baltimore Orioles,Infield,Batter,Active,600524,renato nunez
+116,dwight smith,dwight smith jr.,Baltimore Orioles,Outfield,Batter,Active,596105,dwight smith
+117,anthony santander,anthony santander,Baltimore Orioles,Outfield,Batter,Active,623993,anthony santander
+118,chris davis,chris davis,Baltimore Orioles,Infield,Batter,Active,448801,chris davis
+119,hanser alberto,hanser alberto,Baltimore Orioles,Infield,Batter,Active,593643,hanser alberto
+120,gabriel ynoa,gabriel ynoa,Baltimore Orioles,Infield,Batter,Active,593679,gabriel ynoa
+121,fernando tatis jr.,fernando tatís jr.,San Diego Padres,Infield,Batter,Active,665487,fernando tatis jr.
+122,manuel margot,manuel margot,San Diego Padres,Outfield,Batter,Active,622534,manuel margot
+123,manny machado,manny machado,San Diego Padres,Infield,Batter,Active,592518,manny machado
+124,eric hosmer,eric hosmer,San Diego Padres,Infield,Batter,Active,543333,eric hosmer
+125,hunter renfroe,hunter renfroe,San Diego Padres,Outfield,Batter,Active,592669,hunter renfroe
+126,franmil reyes,franmil reyes,San Diego Padres,Outfield,Batter,Active,614177,franmil reyes
+127,francisco mejia,francisco mejía,San Diego Padres,Catcher,Batter,Active,642336,francisco mejia
+128,luis urias,luis urías,San Diego Padres,Infield,Batter,Active,649966,luis urias
+129,chris paddack,chris paddack,San Diego Padres,Pitcher,Starter,Active,663978,chris paddack

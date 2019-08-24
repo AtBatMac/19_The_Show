@@ -1,0 +1,1267 @@
+,Player,Team_x,Position_x,Role_x,Roster_x,key_mlbam,daily player reformat
+0,aaron brooks,Baltimore Orioles,Pitcher,Starter,Active,605156,aaron brooks
+1,dylan bundy,Baltimore Orioles,Pitcher,Starter,Active,605164,dylan bundy
+2,tom eshelman,Baltimore Orioles,Pitcher,Starter,Active,,
+3,asher wojciechowski,Baltimore Orioles,Pitcher,Starter,Active,,
+4,shawn armstrong,Baltimore Orioles,Pitcher,Bullpen,Active,542888,shawn armstrong
+5,richard bleier,Baltimore Orioles,Pitcher,Bullpen,Active,542947,richard bleier
+6,miguel castro,Baltimore Orioles,Pitcher,Bullpen,Active,612434,miguel castro
+7,paul fry,Baltimore Orioles,Pitcher,Bullpen,Active,643316,paul fry
+8,mychal givens,Baltimore Orioles,Pitcher,Bullpen,Active,571710,mychal givens
+9,evan phillips,Baltimore Orioles,Pitcher,Bullpen,Active,623465,evan phillips
+10,dillon tate,Baltimore Orioles,Pitcher,Bullpen,Active,622253,dillon tate
+11,jimmy yacabonis,Baltimore Orioles,Pitcher,Bullpen,Active,642231,jimmy yacabonis
+12,gabriel ynoa,Baltimore Orioles,Pitcher,Bullpen,Active,,
+13,pedro severino,Baltimore Orioles,Catcher,Batter,Active,600474,pedro severino
+14,chance sisco,Baltimore Orioles,Catcher,Batter,Active,642082,chance sisco
+15,hanser alberto,Baltimore Orioles,Infield,Batter,Active,593643,hanser alberto
+16,chris davis,Baltimore Orioles,Infield,Batter,Active,448801,chris davis
+17,richie martin,Baltimore Orioles,Infield,Batter,Active,621006,richie martin
+18,renato núñez,Baltimore Orioles,Infield,Batter,Active,600524,renato nunez
+19,jace peterson,Baltimore Orioles,Infield,Batter,Active,,
+20,jonathan villar,Baltimore Orioles,Infield,Batter,Active,542340,jonathan villar
+21,trey mancini,Baltimore Orioles,Outfield,Batter,Active,641820,trey mancini
+22,anthony santander,Baltimore Orioles,Outfield,Batter,Active,623993,anthony santander
+23,dwight smith jr.,Baltimore Orioles,Outfield,Batter,Active,596105,dwight smith
+24,stevie wilkerson,Baltimore Orioles,Outfield,Batter,Active,592859,stevie wilkerson
+25,cody carroll,Baltimore Orioles,Inactive,Inactive,Inactive,606944,cody carroll
+26,hunter harvey,Baltimore Orioles,Inactive,Inactive,Inactive,640451,hunter harvey
+27,david hess,Baltimore Orioles,Inactive,Inactive,Inactive,605276,david hess
+28,branden kline,Baltimore Orioles,Inactive,Inactive,Inactive,571858,branden kline
+29,john means,Baltimore Orioles,Inactive,Inactive,Inactive,607644,john means
+30,luis ortiz,Baltimore Orioles,Inactive,Inactive,Inactive,656814,luis ortiz
+31,tanner scott,Baltimore Orioles,Inactive,Inactive,Inactive,656945,tanner scott
+32,tayler scott,Baltimore Orioles,Inactive,Inactive,Inactive,,
+33,chandler shepherd,Baltimore Orioles,Inactive,Inactive,Inactive,605469,chandler shepherd
+34,austin wynns,Baltimore Orioles,Inactive,Inactive,Inactive,642851,austin wynns
+35,rio ruiz,Baltimore Orioles,Inactive,Inactive,Inactive,547004,rio ruiz
+36,austin hays  ( cedric mullins,Baltimore Orioles,Inactive,Inactive,Inactive,,
+37,dj stewart,Baltimore Orioles,Inactive,Inactive,Inactive,621466,dj stewart
+38,andrew cashner,Boston Red Sox,Pitcher,Starter,Active,488768,andrew cashner
+39,rick porcello,Boston Red Sox,Pitcher,Starter,Active,519144,rick porcello
+40,david price,Boston Red Sox,Pitcher,Starter,Active,456034,david price
+41,eduardo rodríguez,Boston Red Sox,Pitcher,Starter,Active,593958,eduardo rodriguez
+42,chris sale,Boston Red Sox,Pitcher,Starter,Active,519242,chris sale
+43,matt barnes,Boston Red Sox,Pitcher,Bullpen,Active,598264,matt barnes
+44,colten brewer,Boston Red Sox,Pitcher,Bullpen,Active,605155,colten brewer
+45,heath hembree,Boston Red Sox,Pitcher,Bullpen,Active,592390,heath hembree
+46,darwinzon hernández,Boston Red Sox,Pitcher,Bullpen,Active,650382,darwinzon hernandez
+47,josh taylor,Boston Red Sox,Pitcher,Bullpen,Active,657031,josh taylor
+48,marcus walden,Boston Red Sox,Pitcher,Bullpen,Active,519393,marcus walden
+49,brandon workman,Boston Red Sox,Pitcher,Bullpen,Active,519443,brandon workman
+50,nathan eovaldi,Boston Red Sox,Pitcher,Bullpen,Active,543135,nathan eovaldi
+51,sandy león,Boston Red Sox,Catcher,Batter,Active,,
+52,christian vázquez,Boston Red Sox,Catcher,Batter,Active,543877,christian vasquez
+53,xander bogaerts,Boston Red Sox,Infield,Batter,Active,593428,xander bogaerts
+54,michael chavis,Boston Red Sox,Infield,Batter,Active,656308,michael chavis
+55,rafael devers,Boston Red Sox,Infield,Batter,Active,646240,rafael devers
+56,brock holt,Boston Red Sox,Infield,Batter,Active,,
+57,mitch moreland,Boston Red Sox,Infield,Batter,Active,519048,mitch moreland
+58,sam travis,Boston Red Sox,Infield,Batter,Active,607752,sam travis
+59,andrew benintendi,Boston Red Sox,Outfield,Batter,Active,643217,andrew benintendi
+60,mookie betts,Boston Red Sox,Outfield,Batter,Active,605141,mookie betts
+61,jackie bradley jr. (,Boston Red Sox,Outfield,Batter,Active,,
+62,j. d. martinez,Boston Red Sox,Outfield,Batter,Active,502110,j.d. martinez
+63,ryan brasier,Boston Red Sox,Inactive,Inactive,Inactive,518489,ryan brasier
+64,brian johnson,Boston Red Sox,Inactive,Inactive,Inactive,598271,brian johnson
+65,trevor kelley,Boston Red Sox,Inactive,Inactive,Inactive,,
+66,travis lakins,Boston Red Sox,Inactive,Inactive,Inactive,664042,travis lakins
+67,bobby poyner,Boston Red Sox,Inactive,Inactive,Inactive,596074,bobby poyner
+68,denyi reyes,Boston Red Sox,Inactive,Inactive,Inactive,660593,denyi reyes
+69,mike shawaryn,Boston Red Sox,Inactive,Inactive,Inactive,,
+70,josh a. smith,Boston Red Sox,Inactive,Inactive,Inactive,,
+71,héctor velázquez,Boston Red Sox,Inactive,Inactive,Inactive,584171,hector velazquez
+72,ryan weber,Boston Red Sox,Inactive,Inactive,Inactive,,
+73,steven wright,Boston Red Sox,Inactive,Inactive,Inactive,,
+74,joey curletta,Boston Red Sox,Inactive,Inactive,Inactive,621575,joey curletta
+75,marco hernández  ( tzu(wei lin,Boston Red Sox,Inactive,Inactive,Inactive,,
+76,steve pearce,Boston Red Sox,Inactive,Inactive,Inactive,456665,steve pearce
+77,domingo germán,New York Yankees,Pitcher,Starter,Active,593334,domingo german
+78,j. a. happ,New York Yankees,Pitcher,Starter,Active,457918,j. a. happ
+79,james paxton,New York Yankees,Pitcher,Starter,Active,572020,james paxton
+80,masahiro tanaka,New York Yankees,Pitcher,Starter,Active,547888,masahiro tanaka
+81,zack britton,New York Yankees,Pitcher,Bullpen,Active,502154,zack britton
+82,luis cessa,New York Yankees,Pitcher,Bullpen,Active,570666,luis cessa
+83,nestor cortes jr.,New York Yankees,Pitcher,Bullpen,Active,,
+84,chad green,New York Yankees,Pitcher,Bullpen,Active,643338,chad green
+85,david hale,New York Yankees,Pitcher,Bullpen,Active,,
+86,tommy kahnle,New York Yankees,Pitcher,Bullpen,Active,592454,tommy kahnle
+87,adam ottavino,New York Yankees,Pitcher,Bullpen,Active,493603,adam ottavino
+88,aroldis chapman,New York Yankees,Pitcher,Bullpen,Active,547973,aroldis chapman
+89,kyle higashioka,New York Yankees,Catcher,Batter,Active,543309,kyle higashioka
+90,austin romine,New York Yankees,Catcher,Batter,Active,519222,austin romine
+91,edwin encarnación,New York Yankees,Infield,Batter,Active,429665,edwin encarnacion
+92,didi gregorius,New York Yankees,Infield,Batter,Active,,
+93,dj lemahieu,New York Yankees,Infield,Batter,Active,518934,dj lemahieu
+94,gleyber torres,New York Yankees,Infield,Batter,Active,650402,gleyber torres
+95,gio urshela,New York Yankees,Infield,Batter,Active,570482,gio urshela
+96,luke voit,New York Yankees,Infield,Batter,Active,572228,luke voit
+97,tyler wade,New York Yankees,Infield,Batter,Active,642180,tyler wade
+98,aaron hicks,New York Yankees,Outfield,Batter,Active,543305,aaron hicks
+99,aaron judge,New York Yankees,Outfield,Batter,Active,592450,aaron judge
+100,cameron maybin,New York Yankees,Outfield,Batter,Active,457727,cameron maybin
+101,mike tauchman,New York Yankees,Outfield,Batter,Active,643565,mike tauchman
+102,albert abreu,New York Yankees,Inactive,Inactive,Inactive,656061,albert abreu
+103,domingo acevedo,New York Yankees,Inactive,Inactive,Inactive,642758,domingo acevedo
+104,chance adams,New York Yankees,Inactive,Inactive,Inactive,664856,chance adams
+105,daniel camarena,New York Yankees,Inactive,Inactive,Inactive,,
+106,joe harvey,New York Yankees,Inactive,Inactive,Inactive,642840,joe harvey
+107,jonathan holder,New York Yankees,Inactive,Inactive,Inactive,656547,jonathan holder
+108,cc sabathia,New York Yankees,Inactive,Inactive,Inactive,282332,cc sabathia
+109,stephen tarpley,New York Yankees,Inactive,Inactive,Inactive,605501,stephen tarpley
+110,gary sánchez,New York Yankees,Inactive,Inactive,Inactive,596142,gary sanchez
+111,thairo estrada,New York Yankees,Inactive,Inactive,Inactive,642731,thairo estrada
+112,mike ford,New York Yankees,Inactive,Inactive,Inactive,645801,mike ford
+113,breyvic valera,New York Yankees,Inactive,Inactive,Inactive,591971,breyvic valera
+114,clint frazier,New York Yankees,Inactive,Inactive,Inactive,640449,clint frazier
+115,brett gardner,New York Yankees,Inactive,Inactive,Inactive,458731,brett gardner
+116,giancarlo stanton,New York Yankees,Inactive,Inactive,Inactive,519317,giancarlo stanton
+117,yonny chirinos,Tampa Bay Rays,Pitcher,Starter,Active,630023,yonny chirinos
+118,charlie morton,Tampa Bay Rays,Pitcher,Starter,Active,450203,charlie morton
+119,jalen beeks,Tampa Bay Rays,Pitcher,Bullpen,Active,656222,jalen beeks
+120,diego castillo,Tampa Bay Rays,Pitcher,Bullpen,Active,650895,diego castillo
+121,oliver drake,Tampa Bay Rays,Pitcher,Bullpen,Active,,
+122,jake faria,Tampa Bay Rays,Pitcher,Bullpen,Active,607188,jake faria
+123,andrew kittredge,Tampa Bay Rays,Pitcher,Bullpen,Active,,
+124,adam kolarek,Tampa Bay Rays,Pitcher,Bullpen,Active,592473,adam kolarek
+125,emilio pagán,Tampa Bay Rays,Pitcher,Bullpen,Active,641941,emilio pagan
+126,colin poche,Tampa Bay Rays,Pitcher,Bullpen,Active,,
+127,chaz roe,Tampa Bay Rays,Pitcher,Bullpen,Active,475054,chaz roe
+128,ryan yarbrough,Tampa Bay Rays,Pitcher,Bullpen,Active,642232,ryan yarbrough
+129,travis d'arnaud,Tampa Bay Rays,Catcher,Batter,Active,518595,travis d'arnaud
+130,mike zunino,Tampa Bay Rays,Catcher,Batter,Active,572287,mike zunino
+131,willy adames,Tampa Bay Rays,Infield,Batter,Active,642715,willy adames
+132,mike brosseau,Tampa Bay Rays,Infield,Batter,Active,,
+133,ji-man choi,Tampa Bay Rays,Infield,Batter,Active,596847,ji-man choi
+134,matt duffy,Tampa Bay Rays,Infield,Batter,Active,622110,matt duffy
+135,nate lowe,Tampa Bay Rays,Infield,Batter,Active,,
+136,joey wendle,Tampa Bay Rays,Infield,Batter,Active,621563,joey wendle
+137,avisaíl garcía,Tampa Bay Rays,Outfield,Batter,Active,,
+138,guillermo heredia,Tampa Bay Rays,Outfield,Batter,Active,628338,guillermo heredia
+139,austin meadows,Tampa Bay Rays,Outfield,Batter,Active,640457,austin meadows
+140,tommy pham,Tampa Bay Rays,Outfield,Batter,Active,502054,tommy pham
+141,josé alvarado,Tampa Bay Rays,Inactive,Inactive,Inactive,621237,jose alvarado
+142,josé de león,Tampa Bay Rays,Inactive,Inactive,Inactive,,
+143,peter fairbanks,Tampa Bay Rays,Inactive,Inactive,Inactive,,
+144,brent honeywell,Tampa Bay Rays,Inactive,Inactive,Inactive,641703,brent honeywell
+145,brendan mckay,Tampa Bay Rays,Inactive,Inactive,Inactive,,
+146,austin pruitt  ( blake snell,Tampa Bay Rays,Inactive,Inactive,Inactive,,
+147,ryne stanek    ( michael pérez    ( yandy díaz ( brandon lowe,Tampa Bay Rays,Inactive,Inactive,Inactive,,
+148,daniel robertson,Tampa Bay Rays,Inactive,Inactive,Inactive,621002,daniel robertson
+149,eric sogard,Tampa Bay Rays,Inactive,Inactive,Inactive,519299,eric sogard
+150,kevin kiermaier,Tampa Bay Rays,Inactive,Inactive,Inactive,595281,kevin kiermaier
+151,joe mccarthy,Tampa Bay Rays,Inactive,Inactive,Inactive,663411,joe mccarthy
+152,jesús sánchez,Tampa Bay Rays,Inactive,Inactive,Inactive,660821,jesus sanchez
+153,ryan borucki,Toronto Blue Jays,Pitcher,Starter,Active,621366,ryan borucki
+154,thomas pannone,Toronto Blue Jays,Pitcher,Starter,Active,623381,thomas pannone
+155,sean reid-foley,Toronto Blue Jays,Pitcher,Starter,Active,,
+156,aaron sanchez,Toronto Blue Jays,Pitcher,Starter,Active,592717,aaron sanchez
+157,jacob waguespack,Toronto Blue Jays,Pitcher,Starter,Active,621097,jacob waguespack
+158,joe biagini,Toronto Blue Jays,Pitcher,Bullpen,Active,607352,joe biagini
+159,wilmer font,Toronto Blue Jays,Pitcher,Bullpen,Active,521655,wilmer font
+160,sam gaviglio,Toronto Blue Jays,Pitcher,Bullpen,Active,543208,sam gaviglio
+161,daniel hudson,Toronto Blue Jays,Pitcher,Bullpen,Active,543339,daniel hudson
+162,derek law,Toronto Blue Jays,Pitcher,Bullpen,Active,,
+163,tim mayza,Toronto Blue Jays,Pitcher,Bullpen,Active,641835,tim mayza
+164,david phelps,Toronto Blue Jays,Pitcher,Bullpen,Active,475479,david phelps
+165,ken giles,Toronto Blue Jays,Pitcher,Bullpen,Active,571704,ken giles
+166,danny jansen,Toronto Blue Jays,Catcher,Batter,Active,643376,danny jansen
+167,reese mcguire,Toronto Blue Jays,Catcher,Batter,Active,624512,reese mcguire
+168,bo bichette,Toronto Blue Jays,Infield,Batter,Active,,
+169,cavan biggio,Toronto Blue Jays,Infield,Batter,Active,,
+170,brandon drury,Toronto Blue Jays,Infield,Batter,Active,592273,brandon drury
+171,freddy galvis,Toronto Blue Jays,Infield,Batter,Active,520471,freddy galvis
+172,vladimir guerrero jr.,Toronto Blue Jays,Infield,Batter,Active,665489,vladimir guerrero jr.
+173,justin smoak,Toronto Blue Jays,Infield,Batter,Active,475253,justin smoak
+174,randal grichuk,Toronto Blue Jays,Outfield,Batter,Active,545341,randal grichuk
+175,lourdes gurriel jr.,Toronto Blue Jays,Outfield,Batter,Active,666971,lourdes gurriel
+176,teoscar hernández,Toronto Blue Jays,Outfield,Batter,Active,606192,teoscar hernandez
+177,billy mckinney,Toronto Blue Jays,Outfield,Batter,Active,641856,billy mckinney
+178,yennsy díaz,Toronto Blue Jays,Inactive,Inactive,Inactive,660546,yennsy diaz
+179,julian merryweather,Toronto Blue Jays,Inactive,Inactive,Inactive,657240,julian merryweather
+180,patrick murphy,Toronto Blue Jays,Inactive,Inactive,Inactive,641907,patrick murphy
+181,david paulino,Toronto Blue Jays,Inactive,Inactive,Inactive,600944,david paulino
+182,héctor pérez  ( clayton richard,Toronto Blue Jays,Inactive,Inactive,Inactive,,
+183,jordan romano,Toronto Blue Jays,Inactive,Inactive,Inactive,,
+184,justin shafer,Toronto Blue Jays,Inactive,Inactive,Inactive,,
+185,trent thornton,Toronto Blue Jays,Inactive,Inactive,Inactive,663423,trent thornton
+186,luke maile    ( richard ureña,Toronto Blue Jays,Inactive,Inactive,Inactive,,
+187,rowdy tellez,Toronto Blue Jays,Inactive,Inactive,Inactive,642133,rowdy tellez
+188,anthony alford,Toronto Blue Jays,Inactive,Inactive,Inactive,546990,anthony alford
+189,dylan cease,Chicago White Sox,Pitcher,Starter,Active,656302,dylan cease
+190,dylan covey,Chicago White Sox,Pitcher,Starter,Active,592229,dylan covey
+191,ross detwiler,Chicago White Sox,Pitcher,Starter,Active,,
+192,lucas giolito,Chicago White Sox,Pitcher,Starter,Active,608337,lucas giolito
+193,reynaldo lópez,Chicago White Sox,Pitcher,Starter,Active,625643,reynaldo lopez
+194,iván nova,Chicago White Sox,Pitcher,Starter,Active,467100,ivan nova
+195,aaron bummer,Chicago White Sox,Pitcher,Bullpen,Active,607481,aaron bummer
+196,jimmy cordero,Chicago White Sox,Pitcher,Bullpen,Active,622772,jimmy cordero
+197,jace fry,Chicago White Sox,Pitcher,Bullpen,Active,605240,jace fry
+198,evan marshall,Chicago White Sox,Pitcher,Bullpen,Active,,
+199,josh osich,Chicago White Sox,Pitcher,Bullpen,Active,592612,josh osich
+200,josé ruiz,Chicago White Sox,Pitcher,Bullpen,Active,,
+201,álex colomé,Chicago White Sox,Pitcher,Bullpen,Active,517008,alex colome
+202,welington castillo,Chicago White Sox,Catcher,Batter,Active,456078,welington castillo
+203,james mccann,Chicago White Sox,Catcher,Batter,Active,543510,james mccann
+204,josé abreu,Chicago White Sox,Infield,Batter,Active,547989,jose abreu
+205,leury garcía,Chicago White Sox,Infield,Batter,Active,544725,leury garcia
+206,ryan goins,Chicago White Sox,Infield,Batter,Active,,
+207,yoan moncada,Chicago White Sox,Infield,Batter,Active,660162,yoan moncada
+208,a. j. reed,Chicago White Sox,Infield,Batter,Active,607223,a. j. reed
+209,yolmer sánchez,Chicago White Sox,Infield,Batter,Active,570560,yolmer sanchez
+210,ryan cordell,Chicago White Sox,Outfield,Batter,Active,641477,ryan cordell
+211,adam engel,Chicago White Sox,Outfield,Batter,Active,641553,adam engel
+212,jon jay,Chicago White Sox,Outfield,Batter,Active,445055,jon jay
+213,eloy jiménez,Chicago White Sox,Outfield,Batter,Active,,
+214,manny bañuelos,Chicago White Sox,Inactive,Inactive,Inactive,544365,manny banuelos
+215,caleb frare,Chicago White Sox,Inactive,Inactive,Inactive,621350,caleb frare
+216,carson fulmer,Chicago White Sox,Inactive,Inactive,Inactive,608334,carson fulmer
+217,ian hamilton,Chicago White Sox,Inactive,Inactive,Inactive,641656,ian hamilton
+218,kelvin herrera,Chicago White Sox,Inactive,Inactive,Inactive,516969,kelvin herrera
+219,kodi medeiros,Chicago White Sox,Inactive,Inactive,Inactive,656727,kodi medeiros
+220,thyago vieira,Chicago White Sox,Inactive,Inactive,Inactive,600986,thyago vieira
+221,zack collins,Chicago White Sox,Inactive,Inactive,Inactive,,
+222,seby zavala    ( tim anderson,Chicago White Sox,Inactive,Inactive,Inactive,,
+223,micker adolfo,Chicago White Sox,Inactive,Inactive,Inactive,650520,micker adolfo
+224,luis alexander basabe,Chicago White Sox,Inactive,Inactive,Inactive,642772,luis alexander basabe
+225,charlie tilson,Chicago White Sox,Inactive,Inactive,Inactive,,
+226,daniel palka,Chicago White Sox,Inactive,Inactive,Inactive,594953,daniel palka
+227,trevor bauer,Cleveland Indians,Pitcher,Starter,Active,545333,trevor bauer
+228,shane bieber,Cleveland Indians,Pitcher,Starter,Active,669456,shane bieber
+229,mike clevinger,Cleveland Indians,Pitcher,Starter,Active,,
+230,zach plesac,Cleveland Indians,Pitcher,Starter,Active,,
+231,adam plutko,Cleveland Indians,Pitcher,Starter,Active,592644,adam plutko
+232,adam cimber,Cleveland Indians,Pitcher,Bullpen,Active,643256,adam cimber
+233,tyler clippard,Cleveland Indians,Pitcher,Bullpen,Active,,
+234,a. j. cole,Cleveland Indians,Pitcher,Bullpen,Active,,
+235,nick goody,Cleveland Indians,Pitcher,Bullpen,Active,580792,nick goody
+236,tyler olson,Cleveland Indians,Pitcher,Bullpen,Active,621397,tyler olson
+237,óliver pérez,Cleveland Indians,Pitcher,Bullpen,Active,424144,oliver perez
+238,nick wittgren,Cleveland Indians,Pitcher,Bullpen,Active,621295,nick wittgren
+239,brad hand,Cleveland Indians,Pitcher,Bullpen,Active,543272,brad hand
+240,roberto pérez,Cleveland Indians,Catcher,Batter,Active,547379,roberto perez
+241,kevin plawecki,Cleveland Indians,Catcher,Batter,Active,608700,kevin plawecki
+242,mike freeman,Cleveland Indians,Infield,Batter,Active,,
+243,jason kipnis,Cleveland Indians,Infield,Batter,Active,543401,jason kipnis
+244,francisco lindor,Cleveland Indians,Infield,Batter,Active,596019,francisco lindor
+245,josé ramírez,Cleveland Indians,Infield,Batter,Active,608070,jose ramirez
+246,carlos santana,Cleveland Indians,Infield,Batter,Active,467793,carlos santana
+247,greg allen,Cleveland Indians,Outfield,Batter,Active,656185,greg allen
+248,jake bauers,Cleveland Indians,Outfield,Batter,Active,641343,jake bauers
+249,jordan luplow,Cleveland Indians,Outfield,Batter,Active,656669,jordan luplow
+250,oscar mercado,Cleveland Indians,Outfield,Batter,Active,640458,oscar mercado
+251,tyler naquin,Cleveland Indians,Outfield,Batter,Active,571980,tyler naquin
+252,carlos carrasco,Cleveland Indians,Inactive,Inactive,Inactive,471911,carlos carrasco
+253,aaron civale,Cleveland Indians,Inactive,Inactive,Inactive,,
+254,jon edwards,Cleveland Indians,Inactive,Inactive,Inactive,457754,jon edwards
+255,sam hentges,Cleveland Indians,Inactive,Inactive,Inactive,656529,sam hentges
+256,phil maton,Cleveland Indians,Inactive,Inactive,Inactive,664208,phil maton
+257,jean carlos mejía,Cleveland Indians,Inactive,Inactive,Inactive,650496,jean carlos mejia
+258,dan otero,Cleveland Indians,Inactive,Inactive,Inactive,519096,dan otero
+259,josh smith,Cleveland Indians,Inactive,Inactive,Inactive,,
+260,jordan stephens,Cleveland Indians,Inactive,Inactive,Inactive,596111,jordan stephens
+261,hunter wood,Cleveland Indians,Inactive,Inactive,Inactive,621056,hunter wood
+262,eric haase,Cleveland Indians,Inactive,Inactive,Inactive,606992,eric haase
+263,bobby bradley  ( yu chang  ( eric stamets,Cleveland Indians,Inactive,Inactive,Inactive,,
+264,andrew velazquez,Cleveland Indians,Inactive,Inactive,Inactive,623205,andrew velazquez
+265,tyler alexander,Detroit Tigers,Pitcher,Starter,Active,,
+266,matthew boyd,Detroit Tigers,Pitcher,Starter,Active,571510,matthew boyd
+267,daniel norris,Detroit Tigers,Pitcher,Starter,Active,596057,daniel norris
+268,drew verhagen,Detroit Tigers,Pitcher,Starter,Active,572403,drew verhagen
+269,jordan zimmermann,Detroit Tigers,Pitcher,Starter,Active,519455,j. zimmermann
+270,josé cisnero,Detroit Tigers,Pitcher,Bullpen,Active,,
+271,buck farmer,Detroit Tigers,Pitcher,Bullpen,Active,571656,buck farmer
+272,blaine hardy,Detroit Tigers,Pitcher,Bullpen,Active,543278,blaine hardy
+273,joe jiménez,Detroit Tigers,Pitcher,Bullpen,Active,641729,joe jimenez
+274,nick ramirez,Detroit Tigers,Pitcher,Bullpen,Active,,
+275,trevor rosenthal,Detroit Tigers,Pitcher,Bullpen,Active,572096,trevor rosenthal
+276,gregory soto,Detroit Tigers,Pitcher,Bullpen,Active,,
+277,shane greene,Detroit Tigers,Pitcher,Bullpen,Active,572888,shane greene
+278,john hicks,Detroit Tigers,Catcher,Batter,Active,543308,john hicks
+279,bobby wilson,Detroit Tigers,Catcher,Batter,Active,,
+280,gordon beckham,Detroit Tigers,Infield,Batter,Active,493596,gordon beckham
+281,miguel cabrera,Detroit Tigers,Infield,Batter,Active,408234,miguel cabrera
+282,jeimer candelario,Detroit Tigers,Infield,Batter,Active,600869,jeimer candelario
+283,harold castro,Detroit Tigers,Infield,Batter,Active,,
+284,brandon dixon,Detroit Tigers,Infield,Batter,Active,641525,brandon dixon
+285,jordy mercer,Detroit Tigers,Infield,Batter,Active,474568,jordy mercer
+286,nicholas castellanos,Detroit Tigers,Outfield,Batter,Active,592206,nicholas castellanos
+287,niko goodrum,Detroit Tigers,Outfield,Batter,Active,592348,niko goodrum
+288,jacoby jones,Detroit Tigers,Outfield,Batter,Active,592444,jacoby jones
+289,christin stewart,Detroit Tigers,Outfield,Batter,Active,621514,christin stewart
+290,victor alcántara,Detroit Tigers,Inactive,Inactive,Inactive,622505,victor alcantara
+291,sandy báez,Detroit Tigers,Inactive,Inactive,Inactive,622783,sandy baez
+292,ryan carpenter,Detroit Tigers,Inactive,Inactive,Inactive,543001,ryan carpenter
+293,matt hall,Detroit Tigers,Inactive,Inactive,Inactive,664180,matt hall
+294,eduardo jiménez,Detroit Tigers,Inactive,Inactive,Inactive,621592,eduardo jimenez
+295,franklin pérez,Detroit Tigers,Inactive,Inactive,Inactive,658530,franklin perez
+296,zac reininger,Detroit Tigers,Inactive,Inactive,Inactive,643617,zac reininger
+297,daniel stumpf,Detroit Tigers,Inactive,Inactive,Inactive,621385,daniel stumpf
+298,spencer turnbull,Detroit Tigers,Inactive,Inactive,Inactive,605513,spencer turnbull
+299,sergio alcántara,Detroit Tigers,Inactive,Inactive,Inactive,642727,sergio alcantara
+300,willi castro,Detroit Tigers,Inactive,Inactive,Inactive,650489,willi castro
+301,dawel lugo,Detroit Tigers,Inactive,Inactive,Inactive,608475,dawel lugo
+302,ronny rodríguez,Detroit Tigers,Inactive,Inactive,Inactive,500135,ronny rodriguez
+303,dustin peterson,Detroit Tigers,Inactive,Inactive,Inactive,640460,dustin peterson
+304,víctor reyes,Detroit Tigers,Inactive,Inactive,Inactive,622682,victor reyes
+305,danny duffy,Kansas City Royals,Pitcher,Starter,Active,518633,danny duffy
+306,jakob junis,Kansas City Royals,Pitcher,Starter,Active,596001,jakob junis
+307,brad keller,Kansas City Royals,Pitcher,Starter,Active,641745,brad keller
+308,jorge lópez,Kansas City Royals,Pitcher,Starter,Active,605347,jorge lopez
+309,mike montgomery,Kansas City Royals,Pitcher,Starter,Active,543557,mike montgomery
+310,scott barlow,Kansas City Royals,Pitcher,Bullpen,Active,605130,scott barlow
+311,tim hill,Kansas City Royals,Pitcher,Bullpen,Active,657612,tim hill
+312,richard lovelady,Kansas City Royals,Pitcher,Bullpen,Active,663992,richard lovelady
+313,kevin mccarthy,Kansas City Royals,Pitcher,Bullpen,Active,641838,kevin mccarthy
+314,glenn sparkman,Kansas City Royals,Pitcher,Bullpen,Active,642098,glenn sparkman
+315,josh staumont,Kansas City Royals,Pitcher,Bullpen,Active,622251,josh staumont
+316,kyle zimmer,Kansas City Royals,Pitcher,Bullpen,Active,622092,kyle zimmer
+317,ian kennedy,Kansas City Royals,Pitcher,Bullpen,Active,453178,ian kennedy
+318,cam gallagher,Kansas City Royals,Catcher,Batter,Active,595956,cam gallagher
+319,meibrys viloria,Kansas City Royals,Catcher,Batter,Active,650619,meibrys viloria
+320,humberto arteaga,Kansas City Royals,Infield,Batter,Active,,
+321,cheslor cuthbert,Kansas City Royals,Infield,Batter,Active,,
+322,hunter dozier,Kansas City Royals,Infield,Batter,Active,641531,hunter dozier
+323,nicky lopez,Kansas City Royals,Infield,Batter,Active,,
+324,whit merrifield,Kansas City Royals,Infield,Batter,Active,593160,whit merrifield
+325,ryan o'hearn,Kansas City Royals,Infield,Batter,Active,656811,ryan o'hearn
+326,alex gordon,Kansas City Royals,Outfield,Batter,Active,460086,alex gordon
+327,billy hamilton,Kansas City Royals,Outfield,Batter,Active,571740,billy hamilton
+328,jorge soler,Kansas City Royals,Outfield,Batter,Active,624585,jorge soler
+329,bubba starling,Kansas City Royals,Outfield,Batter,Active,,
+330,scott blewett,Kansas City Royals,Inactive,Inactive,Inactive,656240,scott blewett
+331,heath fillmyer,Kansas City Royals,Inactive,Inactive,Inactive,641571,heath fillmyer
+332,conner greene,Kansas City Royals,Inactive,Inactive,Inactive,641632,conner greene
+333,arnaldo hernández,Kansas City Royals,Inactive,Inactive,Inactive,642511,arnaldo hernandez
+334,jake newberry,Kansas City Royals,Inactive,Inactive,Inactive,623470,jake newberry
+335,eric skoglund,Kansas City Royals,Inactive,Inactive,Inactive,,
+336,kelvin gutierrez,Kansas City Royals,Inactive,Inactive,Inactive,642721,kelvin gutierrez
+337,adalberto mondesí,Kansas City Royals,Inactive,Inactive,Inactive,609275,adalberto mondesi
+338,jorge bonifacio,Kansas City Royals,Inactive,Inactive,Inactive,593528,jorge bonifacio
+339,brett phillips,Kansas City Royals,Inactive,Inactive,Inactive,621433,brett phillips
+340,josé berríos,Minnesota Twins,Pitcher,Starter,Active,621244,jose berrios
+341,kyle gibson,Minnesota Twins,Pitcher,Starter,Active,502043,kyle gibson
+342,jake odorizzi,Minnesota Twins,Pitcher,Starter,Active,543606,jake odorizzi
+343,martín pérez,Minnesota Twins,Pitcher,Starter,Active,527048,martin perez
+344,michael pineda,Minnesota Twins,Pitcher,Starter,Active,501381,michael pineda
+345,tyler duffey,Minnesota Twins,Pitcher,Bullpen,Active,608648,tyler duffey
+346,ryne harper,Minnesota Twins,Pitcher,Bullpen,Active,607560,ryne harper
+347,trevor may,Minnesota Twins,Pitcher,Bullpen,Active,543507,trevor may
+348,sean poppen,Minnesota Twins,Pitcher,Bullpen,Active,,
+349,sergio romo,Minnesota Twins,Pitcher,Bullpen,Active,489265,sergio romo
+350,cody stashak,Minnesota Twins,Pitcher,Bullpen,Active,,
+351,lewis thorpe,Minnesota Twins,Pitcher,Bullpen,Active,626929,lewis thorpe
+352,taylor rogers,Minnesota Twins,Pitcher,Bullpen,Active,573124,taylor rogers
+353,jason castro,Minnesota Twins,Catcher,Batter,Active,488771,jason castro
+354,mitch garver,Minnesota Twins,Catcher,Batter,Active,641598,mitch garver
+355,ehire adrianza,Minnesota Twins,Infield,Batter,Active,501303,ehire adrianza
+356,luis arráez,Minnesota Twins,Infield,Batter,Active,650333,luis arraez
+357,marwin gonzález,Minnesota Twins,Infield,Batter,Active,503556,marwin gonzalez
+358,jorge polanco,Minnesota Twins,Infield,Batter,Active,593871,jorge polanco
+359,miguel sanó,Minnesota Twins,Infield,Batter,Active,,miguel sanó
+360,jonathan schoop,Minnesota Twins,Infield,Batter,Active,570731,jonathan schoop
+361,byron buxton,Minnesota Twins,Outfield,Batter,Active,621439,byron buxton
+362,max kepler,Minnesota Twins,Outfield,Batter,Active,596146,max kepler
+363,eddie rosario (,Minnesota Twins,Outfield,Batter,Active,592696,eddie rosario
+364,nelson cruz,Minnesota Twins,Outfield,Batter,Active,443558,nelson cruz
+365,ryan eades,Minnesota Twins,Inactive,Inactive,Inactive,,
+366,stephen gonsalves,Minnesota Twins,Inactive,Inactive,Inactive,624427,stephen gonsalves
+367,trevor hildenberger,Minnesota Twins,Inactive,Inactive,Inactive,657610,trevor hildenberger
+368,zack littell,Minnesota Twins,Inactive,Inactive,Inactive,641793,zack littell
+369,fernando romero,Minnesota Twins,Inactive,Inactive,Inactive,622864,fernando romero
+370,devin smeltzer,Minnesota Twins,Inactive,Inactive,Inactive,,
+371,kohl stewart,Minnesota Twins,Inactive,Inactive,Inactive,640464,kohl stewart
+372,willians astudillo,Minnesota Twins,Inactive,Inactive,Inactive,553902,willians astudillo
+373,c. j. cron ( nick gordon,Minnesota Twins,Inactive,Inactive,Inactive,,
+374,jake cave,Minnesota Twins,Inactive,Inactive,Inactive,595909,jake cave
+375,lamonte wade,Minnesota Twins,Inactive,Inactive,Inactive,664774,lamonte wade
+376,gerrit cole,Houston Astros,Pitcher,Starter,Active,543037,gerrit cole
+377,wade miley,Houston Astros,Pitcher,Starter,Active,489119,wade miley
+378,josé urquidy,Houston Astros,Pitcher,Starter,Active,,
+379,justin verlander,Houston Astros,Pitcher,Starter,Active,434378,justin verlander
+380,chris devenski,Houston Astros,Pitcher,Bullpen,Active,606965,chris devenski
+381,will harris,Houston Astros,Pitcher,Bullpen,Active,501789,will harris
+382,collin mchugh,Houston Astros,Pitcher,Bullpen,Active,543521,collin mchugh
+383,ryan pressly,Houston Astros,Pitcher,Bullpen,Active,519151,ryan pressly
+384,héctor rondón,Houston Astros,Pitcher,Bullpen,Active,444468,hector rondon
+385,joe smith,Houston Astros,Pitcher,Bullpen,Active,501925,joe smith
+386,cy sneed,Houston Astros,Pitcher,Bullpen,Active,,
+387,roberto osuna,Houston Astros,Pitcher,Bullpen,Active,532077,roberto osuna
+388,robinson chirinos,Houston Astros,Catcher,Batter,Active,455139,robinson chirinos
+389,max stassi,Houston Astros,Catcher,Batter,Active,545358,max stassi
+390,josé altuve,Houston Astros,Infield,Batter,Active,514888,jose altuve
+391,alex bregman,Houston Astros,Infield,Batter,Active,608324,alex bregman
+392,carlos correa,Houston Astros,Infield,Batter,Active,621043,carlos correa
+393,aledmys díaz,Houston Astros,Infield,Batter,Active,649557,aledmys diaz
+394,yuli gurriel,Houston Astros,Infield,Batter,Active,493329,yuli gurriel
+395,michael brantley,Houston Astros,Outfield,Batter,Active,488726,michael brantley
+396,jake marisnick,Houston Astros,Outfield,Batter,Active,545350,jake marisnick
+397,josh reddick,Houston Astros,Outfield,Batter,Active,502210,josh reddick
+398,george springer,Houston Astros,Outfield,Batter,Active,543807,george springer
+399,myles straw (,Houston Astros,Outfield,Batter,Active,,
+400,yordan álvarez,Houston Astros,Outfield,Batter,Active,,
+401,bryan abreu,Houston Astros,Inactive,Inactive,Inactive,650556,bryan abreu
+402,rogelio armenteros,Houston Astros,Inactive,Inactive,Inactive,660494,rogelio armenteros
+403,dean deetz,Houston Astros,Inactive,Inactive,Inactive,657209,dean deetz
+404,reymin guduan,Houston Astros,Inactive,Inactive,Inactive,594056,reymin guduan
+405,josh james,Houston Astros,Inactive,Inactive,Inactive,657624,josh james
+406,corbin martin,Houston Astros,Inactive,Inactive,Inactive,,
+407,brad peacock,Houston Astros,Inactive,Inactive,Inactive,502748,brad peacock
+408,cionel pérez,Houston Astros,Inactive,Inactive,Inactive,672335,cionel perez
+409,brady rodgers,Houston Astros,Inactive,Inactive,Inactive,572086,brady rodgers
+410,framber valdez,Houston Astros,Inactive,Inactive,Inactive,664285,framber valdez
+411,garrett stubbs    ( jack mayfield,Houston Astros,Inactive,Inactive,Inactive,,
+412,derek fisher  ( kyle tucker,Houston Astros,Inactive,Inactive,Inactive,,
+413,jaime barría,Los Angeles Angels,Pitcher,Starter,Active,642545,jaime barra
+414,griffin canning,Los Angeles Angels,Pitcher,Starter,Active,,
+415,félix peña,Los Angeles Angels,Pitcher,Starter,Active,570240,felix pena
+416,dillon peters,Los Angeles Angels,Pitcher,Starter,Active,596071,dillon peters
+417,josé suárez,Los Angeles Angels,Pitcher,Starter,Active,660761,jose suarez
+418,justin anderson,Los Angeles Angels,Pitcher,Bullpen,Active,605121,justin anderson
+419,luke bard,Los Angeles Angels,Pitcher,Bullpen,Active,572703,luke bard
+420,cam bedrosian,Los Angeles Angels,Pitcher,Bullpen,Active,592135,cam bedrosian
+421,ty buttrey,Los Angeles Angels,Pitcher,Bullpen,Active,621142,ty buttrey
+422,trevor cahill,Los Angeles Angels,Pitcher,Bullpen,Active,502239,trevor cahill
+423,taylor cole,Los Angeles Angels,Pitcher,Bullpen,Active,518566,taylor cole
+424,luis garcía,Los Angeles Angels,Pitcher,Bullpen,Active,472610,luis garcia
+425,hansel robles,Los Angeles Angels,Pitcher,Bullpen,Active,570663,hansel robles
+426,dustin garneau,Los Angeles Angels,Catcher,Batter,Active,,
+427,kevan smith,Los Angeles Angels,Catcher,Batter,Active,607345,kevan smith
+428,david fletcher,Los Angeles Angels,Infield,Batter,Active,664058,david fletcher
+429,albert pujols,Los Angeles Angels,Infield,Batter,Active,405395,albert pujols
+430,luis rengifo,Los Angeles Angels,Infield,Batter,Active,650859,luis rengifo
+431,andrelton simmons,Los Angeles Angels,Infield,Batter,Active,592743,andrelton simmons
+432,matt thaiss,Los Angeles Angels,Infield,Batter,Active,,
+433,kole calhoun,Los Angeles Angels,Outfield,Batter,Active,594777,kole calhoun
+434,brian goodwin,Los Angeles Angels,Outfield,Batter,Active,571718,brian goodwin
+435,mike trout,Los Angeles Angels,Outfield,Batter,Active,545361,mike trout
+436,justin upton (,Los Angeles Angels,Outfield,Batter,Active,,
+437,shohei ohtani,Los Angeles Angels,Outfield,Batter,Active,660271,shohei ohtani
+438,andrew heaney,Los Angeles Angels,Inactive,Inactive,Inactive,571760,andrew heaney
+439,jake jewell,Los Angeles Angels,Inactive,Inactive,Inactive,657228,jake jewell
+440,luis madero,Los Angeles Angels,Inactive,Inactive,Inactive,650347,luis madero
+441,adam mccreery,Los Angeles Angels,Inactive,Inactive,Inactive,607030,adam mccreery
+442,noé ramirez,Los Angeles Angels,Inactive,Inactive,Inactive,598287,noe ramirez
+443,josé rodríguez,Los Angeles Angels,Inactive,Inactive,Inactive,,
+444,nick tropeano,Los Angeles Angels,Inactive,Inactive,Inactive,607374,nick tropeano
+445,anthony bemboom,Los Angeles Angels,Inactive,Inactive,Inactive,,
+446,josé briceño,Los Angeles Angels,Inactive,Inactive,Inactive,593993,jose briceno
+447,jonathan lucroy,Los Angeles Angels,Inactive,Inactive,Inactive,518960,jonathan lucroy
+448,justin bour  ( tommy la stella,Los Angeles Angels,Inactive,Inactive,Inactive,,
+449,jared walsh  ( taylor ward,Los Angeles Angels,Inactive,Inactive,Inactive,,
+450,michael hermosillo,Los Angeles Angels,Inactive,Inactive,Inactive,,
+451,brett anderson,Oakland Athletics,Pitcher,Starter,Active,474463,brett anderson
+452,homer bailey,Oakland Athletics,Pitcher,Starter,Active,456701,homer bailey
+453,chris bassitt,Oakland Athletics,Pitcher,Starter,Active,605135,chris bassitt
+454,mike fiers,Oakland Athletics,Pitcher,Starter,Active,571666,mike fiers
+455,daniel mengden,Oakland Athletics,Pitcher,Starter,Active,596043,daniel mengden
+456,ryan buchter,Oakland Athletics,Pitcher,Bullpen,Active,488748,ryan buchter
+457,yusmeiro petit,Oakland Athletics,Pitcher,Bullpen,Active,433589,yusmeiro petit
+458,brian schlitter,Oakland Athletics,Pitcher,Bullpen,Active,,
+459,joakim soria,Oakland Athletics,Pitcher,Bullpen,Active,465657,joakim soria
+460,blake treinen,Oakland Athletics,Pitcher,Bullpen,Active,595014,blake treinen
+461,lou trivino,Oakland Athletics,Pitcher,Bullpen,Active,642152,lou trivino
+462,wei-chung wang,Oakland Athletics,Pitcher,Bullpen,Active,,
+463,liam hendriks,Oakland Athletics,Pitcher,Bullpen,Active,521230,liam hendriks
+464,chris herrmann,Oakland Athletics,Catcher,Batter,Active,,
+465,josh phegley,Oakland Athletics,Catcher,Batter,Active,572033,josh phegley
+466,franklin barreto,Oakland Athletics,Infield,Batter,Active,620439,franklin barreto
+467,matt chapman,Oakland Athletics,Infield,Batter,Active,656305,matt chapman
+468,matt olson,Oakland Athletics,Infield,Batter,Active,621566,matt olson
+469,jurickson profar,Oakland Athletics,Infield,Batter,Active,595777,jurickson profar
+470,marcus semien,Oakland Athletics,Infield,Batter,Active,543760,marcus semien
+471,mark canha,Oakland Athletics,Outfield,Batter,Active,592192,mark canha
+472,robbie grossman,Oakland Athletics,Outfield,Batter,Active,543257,robbie grossman
+473,ramón laureano,Oakland Athletics,Outfield,Batter,Active,657656,ramon laureano
+474,chad pinder (,Oakland Athletics,Outfield,Batter,Active,,
+475,khris davis,Oakland Athletics,Outfield,Batter,Active,501981,khris davis
+476,tanner anderson,Oakland Athletics,Inactive,Inactive,Inactive,664196,tanner anderson
+477,paul blackburn,Oakland Athletics,Inactive,Inactive,Inactive,621112,paul blackburn
+478,jake diekman,Oakland Athletics,Inactive,Inactive,Inactive,518617,jake diekman
+479,ryan dull,Oakland Athletics,Inactive,Inactive,Inactive,623430,ryan dull
+480,grant holmes,Oakland Athletics,Inactive,Inactive,Inactive,656550,grant holmes
+481,james kaprielian,Oakland Athletics,Inactive,Inactive,Inactive,621076,james kaprielian
+482,andrew triggs,Oakland Athletics,Inactive,Inactive,Inactive,592811,andrew triggs
+483,j. b. wendelken,Oakland Athletics,Inactive,Inactive,Inactive,605525,j. b. wendelken
+484,beau taylor,Oakland Athletics,Inactive,Inactive,Inactive,,
+485,jorge mateo,Oakland Athletics,Inactive,Inactive,Inactive,622761,jorge mateo
+486,luis barrera,Oakland Athletics,Inactive,Inactive,Inactive,642456,luis barrera
+487,skye bolt,Oakland Athletics,Inactive,Inactive,Inactive,621450,skye bolt
+488,dustin fowler,Oakland Athletics,Inactive,Inactive,Inactive,641583,dustin fowler
+489,nick martini,Oakland Athletics,Inactive,Inactive,Inactive,605361,nick martini
+490,stephen piscotty,Oakland Athletics,Inactive,Inactive,Inactive,,
+491,marco gonzales,Seattle Mariners,Pitcher,Starter,Active,594835,marco gonzales
+492,yusei kikuchi,Seattle Mariners,Pitcher,Starter,Active,579328,yusei kikuchi
+493,mike leake,Seattle Mariners,Pitcher,Starter,Active,502190,mike leake
+494,wade leblanc,Seattle Mariners,Pitcher,Starter,Active,453281,wade leblanc
+495,tommy milone,Seattle Mariners,Pitcher,Starter,Active,,
+496,anthony bass,Seattle Mariners,Pitcher,Bullpen,Active,,
+497,matt carasiti,Seattle Mariners,Pitcher,Bullpen,Active,,
+498,cory gearrin,Seattle Mariners,Pitcher,Bullpen,Active,518715,cory gearrin
+499,hunter strickland,Seattle Mariners,Pitcher,Bullpen,Active,,
+500,erik swanson,Seattle Mariners,Pitcher,Bullpen,Active,657024,erik swanson
+501,sam tuivailala,Seattle Mariners,Pitcher,Bullpen,Active,592815,sam tuivailala
+502,matt wisler,Seattle Mariners,Pitcher,Bullpen,Active,605538,matt wisler
+503,roenis elías,Seattle Mariners,Pitcher,Bullpen,Active,606273,roenis elias
+504,tom murphy,Seattle Mariners,Catcher,Batter,Active,608596,tom murphy
+505,omar narváez,Seattle Mariners,Catcher,Batter,Active,553882,omar narvaez
+506,austin nola,Seattle Mariners,Catcher,Batter,Active,,
+507,ryan court,Seattle Mariners,Infield,Batter,Active,,
+508,j. p. crawford,Seattle Mariners,Infield,Batter,Active,641487,j. p. crawford
+509,dylan moore,Seattle Mariners,Infield,Batter,Active,664238,dylan moore
+510,kristopher negrón,Seattle Mariners,Infield,Batter,Active,,
+511,kyle seager,Seattle Mariners,Infield,Batter,Active,,
+512,daniel vogelbach,Seattle Mariners,Infield,Batter,Active,596129,daniel vogelbach
+513,domingo santana,Seattle Mariners,Outfield,Batter,Active,570267,domingo santana
+514,mallex smith (,Seattle Mariners,Outfield,Batter,Active,,
+515,tim beckham,Seattle Mariners,Outfield,Batter,Active,542921,tim beckham
+516,austin adams,Seattle Mariners,Inactive,Inactive,Inactive,,
+517,dan altavilla,Seattle Mariners,Inactive,Inactive,Inactive,656186,dan altavilla
+518,gerson bautista,Seattle Mariners,Inactive,Inactive,Inactive,639373,gerson bautista
+519,brandon brennan,Seattle Mariners,Inactive,Inactive,Inactive,592165,brandon brennan
+520,matt festa,Seattle Mariners,Inactive,Inactive,Inactive,670036,matt festa
+521,david mckay,Seattle Mariners,Inactive,Inactive,Inactive,641853,david mckay
+522,ricardo sánchez,Seattle Mariners,Inactive,Inactive,Inactive,645307,ricardo sanchez
+523,justus sheffield,Seattle Mariners,Inactive,Inactive,Inactive,656954,justus sheffield
+524,matt magill    ( dee gordon,Seattle Mariners,Inactive,Inactive,Inactive,,
+525,shed long,Seattle Mariners,Inactive,Inactive,Inactive,643418,shed long
+526,tim lopes    ( braden bishop,Seattle Mariners,Inactive,Inactive,Inactive,,
+527,keon broxton,Seattle Mariners,Inactive,Inactive,Inactive,542979,keon broxton
+528,mitch haniger,Seattle Mariners,Inactive,Inactive,Inactive,571745,mitch haniger
+529,ariel jurado,Texas Rangers,Pitcher,Starter,Active,642558,ariel jurado
+530,lance lynn,Texas Rangers,Pitcher,Starter,Active,458681,lance lynn
+531,mike minor,Texas Rangers,Pitcher,Starter,Active,501985,mike minor
+532,pedro payano,Texas Rangers,Pitcher,Starter,Active,,
+533,adrian sampson,Texas Rangers,Pitcher,Starter,Active,592716,adrian sampson
+534,kyle bird,Texas Rangers,Pitcher,Bullpen,Active,613317,kyle bird
+535,jesse chavez,Texas Rangers,Pitcher,Bullpen,Active,445926,jesse chavez
+536,taylor guerrieri,Texas Rangers,Pitcher,Bullpen,Active,,
+537,josé leclerc,Texas Rangers,Pitcher,Bullpen,Active,600917,jose leclerc
+538,brett martin,Texas Rangers,Pitcher,Bullpen,Active,656685,brett martin
+539,chris martin,Texas Rangers,Pitcher,Bullpen,Active,455119,chris martin
+540,rafael montero,Texas Rangers,Pitcher,Bullpen,Active,,
+541,phillips valdez,Texas Rangers,Pitcher,Bullpen,Active,,
+542,tim federowicz,Texas Rangers,Catcher,Batter,Active,,
+543,jeff mathis,Texas Rangers,Catcher,Batter,Active,425772,jeff mathis
+544,elvis andrus,Texas Rangers,Infield,Batter,Active,462101,elvis andrus
+545,asdrúbal cabrera,Texas Rangers,Infield,Batter,Active,452678,asdrubal cabrera
+546,logan forsythe,Texas Rangers,Infield,Batter,Active,523253,logan forsythe
+547,rougned odor,Texas Rangers,Infield,Batter,Active,596059,rougned odor
+548,danny santana,Texas Rangers,Infield,Batter,Active,542454,danny santana
+549,willie calhoun,Texas Rangers,Outfield,Batter,Active,641432,willie calhoun
+550,shin-soo choo,Texas Rangers,Outfield,Batter,Active,425783,shin-soo choo
+551,delino deshields jr.,Texas Rangers,Outfield,Batter,Active,592261,delino deshields jr.
+552,nomar mazara (,Texas Rangers,Outfield,Batter,Active,,
+553,hunter pence,Texas Rangers,Outfield,Batter,Active,452254,hunter pence
+554,brock burke,Texas Rangers,Inactive,Inactive,Inactive,656271,brock burke
+555,shane carle,Texas Rangers,Inactive,Inactive,Inactive,641438,shane carle
+556,ian gibaut,Texas Rangers,Inactive,Inactive,Inactive,664139,ian gibaut
+557,jonathan hernández,Texas Rangers,Inactive,Inactive,Inactive,642546,jonathan hernandez
+558,wei(chieh huang,Texas Rangers,Inactive,Inactive,Inactive,,wei(chieh huang
+559,shawn kelley,Texas Rangers,Inactive,Inactive,Inactive,518875,shawn kelley
+560,joe palumbo,Texas Rangers,Inactive,Inactive,Inactive,643478,joe palumbo
+561,c. d. pelham,Texas Rangers,Inactive,Inactive,Inactive,641962,cd pelham
+562,locke st. john    ( isiah kiner(falefa,Texas Rangers,Inactive,Inactive,Inactive,,
+563,jose trevino,Texas Rangers,Inactive,Inactive,Inactive,624431,jose trevino
+564,ronald guzmán,Texas Rangers,Inactive,Inactive,Inactive,608597,ronald guzman
+565,joey gallo,Texas Rangers,Inactive,Inactive,Inactive,608336,joey gallo
+566,zack granite,Texas Rangers,Inactive,Inactive,Inactive,643335,zack granite
+567,scott heineman,Texas Rangers,Inactive,Inactive,Inactive,,
+568,max fried,Atlanta Braves,Pitcher,Starter,Active,608331,max fried
+569,kevin gausman,Atlanta Braves,Pitcher,Starter,Active,592332,kevin gausman
+570,dallas keuchel,Atlanta Braves,Pitcher,Starter,Active,,
+571,mike soroka,Atlanta Braves,Pitcher,Starter,Active,647336,mike soroka
+572,julio teherán,Atlanta Braves,Pitcher,Starter,Active,527054,julio teheran
+573,jerry blevins,Atlanta Braves,Pitcher,Bullpen,Active,,
+574,a. j. minter,Atlanta Braves,Pitcher,Bullpen,Active,621345,a. j. minter
+575,sean newcomb,Atlanta Braves,Pitcher,Bullpen,Active,656794,sean newcomb
+576,chad sobotka,Atlanta Braves,Pitcher,Bullpen,Active,656977,chad sobotka
+577,anthony swarzak,Atlanta Braves,Pitcher,Bullpen,Active,461872,anthony swarzak
+578,josh tomlin,Atlanta Braves,Pitcher,Bullpen,Active,458708,josh tomlin
+579,jeremy walker,Atlanta Braves,Pitcher,Bullpen,Active,,
+580,luke jackson,Atlanta Braves,Pitcher,Bullpen,Active,592426,luke jackson
+581,tyler flowers,Atlanta Braves,Catcher,Batter,Active,452095,tyler flowers
+582,brian mccann,Atlanta Braves,Catcher,Batter,Active,435263,brian mccann
+583,ozzie albies,Atlanta Braves,Infield,Batter,Active,645277,ozzie albies
+584,johan camargo,Atlanta Braves,Infield,Batter,Active,622666,johan camargo
+585,josh donaldson,Atlanta Braves,Infield,Batter,Active,518626,josh donaldson
+586,freddie freeman,Atlanta Braves,Infield,Batter,Active,518692,freddie freeman
+587,ronald acuña jr.,Atlanta Braves,Outfield,Batter,Active,660670,ronald acuna
+588,charlie culberson,Atlanta Braves,Outfield,Batter,Active,518586,charlie culberson
+589,adam duvall,Atlanta Braves,Outfield,Batter,Active,594807,adam duvall
+590,ender inciarte,Atlanta Braves,Outfield,Batter,Active,542255,ender inciarte
+591,matt joyce,Atlanta Braves,Outfield,Batter,Active,459964,matt joyce
+592,austin riley,Atlanta Braves,Outfield,Batter,Active,,
+593,kolby allard,Atlanta Braves,Inactive,Inactive,Inactive,663465,kolby allard
+594,grant dayton,Atlanta Braves,Inactive,Inactive,Inactive,594795,grant dayton
+595,mike foltynewicz,Atlanta Braves,Inactive,Inactive,Inactive,592314,mike foltynewicz
+596,luiz gohara,Atlanta Braves,Inactive,Inactive,Inactive,627894,luiz gohara
+597,wes parsons,Atlanta Braves,Inactive,Inactive,Inactive,641149,wes parsons
+598,touki toussaint,Atlanta Braves,Inactive,Inactive,Inactive,657053,touki toussaint
+599,jacob webb,Atlanta Braves,Inactive,Inactive,Inactive,657097,jacob webb
+600,patrick weigel,Atlanta Braves,Inactive,Inactive,Inactive,622256,patrick weigel
+601,bryse wilson,Atlanta Braves,Inactive,Inactive,Inactive,669060,bryse wilson
+602,daniel winkler,Atlanta Braves,Inactive,Inactive,Inactive,595465,dan winkler
+603,kyle wright,Atlanta Braves,Inactive,Inactive,Inactive,657140,kyle wright
+604,huascar ynoa,Atlanta Braves,Inactive,Inactive,Inactive,660623,huascar ynoa
+605,alex jackson    ( dansby swanson,Atlanta Braves,Inactive,Inactive,Inactive,,
+606,nick markakis,Atlanta Braves,Inactive,Inactive,Inactive,455976,nick markakis
+607,sandy alcántara,Miami Marlins,Pitcher,Starter,Active,645261,sandy alcantara
+608,zac gallen,Miami Marlins,Pitcher,Starter,Active,,
+609,elieser hernández,Miami Marlins,Pitcher,Starter,Active,622694,elieser hernandez
+610,trevor richards,Miami Marlins,Pitcher,Starter,Active,670950,trevor richards
+611,caleb smith,Miami Marlins,Pitcher,Starter,Active,592761,caleb smith
+612,jordan yamamoto,Miami Marlins,Pitcher,Starter,Active,657141,jordan yamamoto
+613,nick anderson,Miami Marlins,Pitcher,Bullpen,Active,623433,nick anderson
+614,wei-yin chen,Miami Marlins,Pitcher,Bullpen,Active,612672,wei-yin chen
+615,adam conley,Miami Marlins,Pitcher,Bullpen,Active,543045,adam conley
+616,jarlin garcía,Miami Marlins,Pitcher,Bullpen,Active,606424,jarlin garcia
+617,tayron guerrero,Miami Marlins,Pitcher,Bullpen,Active,594027,tayron guerrero
+618,josé quijada,Miami Marlins,Pitcher,Bullpen,Active,650671,jose quijada
+619,jorge alfaro,Miami Marlins,Catcher,Batter,Active,595751,jorge alfaro
+620,bryan holaday,Miami Marlins,Catcher,Batter,Active,,
+621,brian anderson,Miami Marlins,Infield,Batter,Active,605119,brian anderson
+622,starlin castro,Miami Marlins,Infield,Batter,Active,516770,starlin castro
+623,martín prado,Miami Marlins,Infield,Batter,Active,445988,martin prado
+624,yadiel rivera,Miami Marlins,Infield,Batter,Active,,
+625,miguel rojas,Miami Marlins,Infield,Batter,Active,500743,miguel rojas
+626,neil walker,Miami Marlins,Infield,Batter,Active,435522,neil walker
+627,garrett cooper,Miami Marlins,Outfield,Batter,Active,643265,garrett cooper
+628,curtis granderson,Miami Marlins,Outfield,Batter,Active,434158,curtis granderson
+629,césar puello,Miami Marlins,Outfield,Batter,Active,,
+630,harold ramírez,Miami Marlins,Outfield,Batter,Active,,
+631,austin brice,Miami Marlins,Inactive,Inactive,Inactive,592169,austin brice
+632,jeff brigham,Miami Marlins,Inactive,Inactive,Inactive,656257,jeff brigham
+633,jorge guzman,Miami Marlins,Inactive,Inactive,Inactive,660422,jorge guzman
+634,jordan holloway,Miami Marlins,Inactive,Inactive,Inactive,656548,jordan holloway
+635,kyle keller,Miami Marlins,Inactive,Inactive,Inactive,664918,kyle keller
+636,tyler kinley,Miami Marlins,Inactive,Inactive,Inactive,641755,tyler kinley
+637,pablo lópez,Miami Marlins,Inactive,Inactive,Inactive,641154,pablo lopez
+638,wilkin castillo,Miami Marlins,Inactive,Inactive,Inactive,,
+639,jon berti,Miami Marlins,Inactive,Inactive,Inactive,542932,jon berti
+640,isan diaz,Miami Marlins,Inactive,Inactive,Inactive,656371,isan diaz
+641,j. t. riddle    ( lewis brinson,Miami Marlins,Inactive,Inactive,Inactive,,
+642,austin dean,Miami Marlins,Inactive,Inactive,Inactive,621573,austin dean
+643,monte harrison,Miami Marlins,Inactive,Inactive,Inactive,656509,monte harrison
+644,magneuris sierra,Miami Marlins,Inactive,Inactive,Inactive,642423,magneuris sierra
+645,jacob degrom,New York Mets,Pitcher,Starter,Active,594798,jacob degrom
+646,steven matz,New York Mets,Pitcher,Starter,Active,571927,steven matz
+647,marcus stroman,New York Mets,Pitcher,Starter,Active,573186,marcus stroman
+648,noah syndergaard,New York Mets,Pitcher,Starter,Active,592789,noah syndergaard
+649,jason vargas,New York Mets,Pitcher,Starter,Active,450306,jason vargas
+650,zack wheeler,New York Mets,Pitcher,Starter,Active,554430,zack wheeler
+651,luis avilán,New York Mets,Pitcher,Bullpen,Active,501593,luis avilan
+652,tyler bashlor,New York Mets,Pitcher,Bullpen,Active,641341,tyler bashlor
+653,jeurys familia,New York Mets,Pitcher,Bullpen,Active,544727,jeurys familia
+654,robert gsellman,New York Mets,Pitcher,Bullpen,Active,607229,robert gsellman
+655,seth lugo,New York Mets,Pitcher,Bullpen,Active,607625,seth lugo
+656,justin wilson,New York Mets,Pitcher,Bullpen,Active,458677,justin wilson
+657,edwin díaz,New York Mets,Pitcher,Bullpen,Active,621242,edwin diaz
+658,tomás nido,New York Mets,Catcher,Batter,Active,621512,tomas nido
+659,wilson ramos,New York Mets,Catcher,Batter,Active,467092,wilson ramos
+660,pete alonso,New York Mets,Infield,Batter,Active,624413,pete alonso
+661,robinson canó,New York Mets,Infield,Batter,Active,429664,robinson cano
+662,j. d. davis,New York Mets,Infield,Batter,Active,605204,j.d. davis
+663,todd frazier,New York Mets,Infield,Batter,Active,453943,todd frazier
+664,adeiny hechavarria,New York Mets,Infield,Batter,Active,,
+665,jeff mcneil,New York Mets,Infield,Batter,Active,643446,jeff mcneil
+666,amed rosario,New York Mets,Infield,Batter,Active,642708,amed rosario
+667,aaron altherr,New York Mets,Outfield,Batter,Active,571437,aaron altherr
+668,michael conforto,New York Mets,Outfield,Batter,Active,624424,michael conforto
+669,juan lagares,New York Mets,Outfield,Batter,Active,501571,juan lagares
+670,chris flexen,New York Mets,Inactive,Inactive,Inactive,623167,chris flexen
+671,drew gagnon,New York Mets,Inactive,Inactive,Inactive,543193,drew gagnon
+672,eric hanhold,New York Mets,Inactive,Inactive,Inactive,621098,eric hanhold
+673,franklyn kilome,New York Mets,Inactive,Inactive,Inactive,642584,franklyn kilome
+674,walker lockett,New York Mets,Inactive,Inactive,Inactive,621141,walker lockett
+675,chris mazza,New York Mets,Inactive,Inactive,Inactive,,
+676,stephen nogosek,New York Mets,Inactive,Inactive,Inactive,,
+677,corey oswalt,New York Mets,Inactive,Inactive,Inactive,621261,corey oswalt
+678,tim peterson,New York Mets,Inactive,Inactive,Inactive,623402,tim peterson
+679,brooks pounders,New York Mets,Inactive,Inactive,Inactive,,
+680,jacob rhame,New York Mets,Inactive,Inactive,Inactive,642008,jacob rhame
+681,daniel zamora,New York Mets,Inactive,Inactive,Inactive,623354,daniel zamora
+682,luis guillorme,New York Mets,Inactive,Inactive,Inactive,641645,luis guillorme
+683,dominic smith,New York Mets,Inactive,Inactive,Inactive,642086,dominic smith
+684,jake arrieta,Philadelphia Phillies,Pitcher,Starter,Active,453562,jake arrieta
+685,zach eflin,Philadelphia Phillies,Pitcher,Starter,Active,621107,zach eflin
+686,aaron nola,Philadelphia Phillies,Pitcher,Starter,Active,605400,aaron nola
+687,drew smyly,Philadelphia Phillies,Pitcher,Starter,Active,592767,drew smyly
+688,vince velasquez,Philadelphia Phillies,Pitcher,Starter,Active,592826,vince velasquez
+689,josé álvarez,Philadelphia Phillies,Pitcher,Bullpen,Active,501625,jose alvarez
+690,édgar garcía,Philadelphia Phillies,Pitcher,Bullpen,Active,658305,edgar garcia
+691,adam morgan,Philadelphia Phillies,Pitcher,Bullpen,Active,605388,adam morgan
+692,mike morin,Philadelphia Phillies,Pitcher,Bullpen,Active,,
+693,juan nicasio,Philadelphia Phillies,Pitcher,Bullpen,Active,504379,juan nicasio
+694,nick pivetta,Philadelphia Phillies,Pitcher,Bullpen,Active,601713,nick pivetta
+695,ranger suárez,Philadelphia Phillies,Pitcher,Bullpen,Active,624133,ranger suarez
+696,héctor neris,Philadelphia Phillies,Pitcher,Bullpen,Active,593576,hector neris
+697,andrew knapp,Philadelphia Phillies,Catcher,Batter,Active,595284,andrew knapp
+698,j. t. realmuto,Philadelphia Phillies,Catcher,Batter,Active,592663,j.t. realmuto
+699,maikel franco,Philadelphia Phillies,Infield,Batter,Active,596748,maikel franco
+700,césar hernández,Philadelphia Phillies,Infield,Batter,Active,514917,cesar hernandez
+701,rhys hoskins,Philadelphia Phillies,Infield,Batter,Active,656555,rhys hoskins
+702,sean rodriguez,Philadelphia Phillies,Infield,Batter,Active,446481,sean rodriguez
+703,jean segura,Philadelphia Phillies,Infield,Batter,Active,516416,jean segura
+704,bryce harper,Philadelphia Phillies,Outfield,Batter,Active,547180,bryce harper
+705,adam haseley,Philadelphia Phillies,Outfield,Batter,Active,,
+706,scott kingery,Philadelphia Phillies,Outfield,Batter,Active,664068,scott kingery
+707,roman quinn,Philadelphia Phillies,Outfield,Batter,Active,596451,roman quinn
+708,nick williams,Philadelphia Phillies,Outfield,Batter,Active,608384,nick williams
+709,drew anderson,Philadelphia Phillies,Inactive,Inactive,Inactive,623454,drew anderson
+710,austin davis,Philadelphia Phillies,Inactive,Inactive,Inactive,656354,austin davis
+711,enyel de los santos,Philadelphia Phillies,Inactive,Inactive,Inactive,660853,enyel de los santos
+712,jerad eickhoff,Philadelphia Phillies,Inactive,Inactive,Inactive,595191,jerad eickhoff
+713,jd hammer,Philadelphia Phillies,Inactive,Inactive,Inactive,,
+714,cole irvin,Philadelphia Phillies,Inactive,Inactive,Inactive,,
+715,adonis medina,Philadelphia Phillies,Inactive,Inactive,Inactive,658431,adonis medina
+716,edubray ramos,Philadelphia Phillies,Inactive,Inactive,Inactive,591693,edubray ramos
+717,yacksel ríos,Philadelphia Phillies,Inactive,Inactive,Inactive,605441,yacksel rios
+718,arquímedes gamboa,Philadelphia Phillies,Inactive,Inactive,Inactive,660614,arquimedes gamboa
+719,brad miller,Philadelphia Phillies,Inactive,Inactive,Inactive,543543,brad miller
+720,josé pirela,Philadelphia Phillies,Inactive,Inactive,Inactive,517369,jose pirela
+721,mitch walding,Philadelphia Phillies,Inactive,Inactive,Inactive,605520,mitch walding
+722,jay bruce,Philadelphia Phillies,Inactive,Inactive,Inactive,457803,jay bruce
+723,dylan cozens,Philadelphia Phillies,Inactive,Inactive,Inactive,622226,dylan cozens
+724,patrick corbin,Washington Nationals,Pitcher,Starter,Active,571578,patrick corbin
+725,joe ross,Washington Nationals,Pitcher,Starter,Active,605452,joe ross
+726,aníbal sánchez,Washington Nationals,Pitcher,Starter,Active,434671,anibal sanchez
+727,max scherzer,Washington Nationals,Pitcher,Starter,Active,453286,max scherzer
+728,stephen strasburg,Washington Nationals,Pitcher,Starter,Active,544931,stephen strasburg
+729,michael blazek,Washington Nationals,Pitcher,Bullpen,Active,,
+730,matt grace,Washington Nationals,Pitcher,Bullpen,Active,594840,matt grace
+731,javy guerra,Washington Nationals,Pitcher,Bullpen,Active,642770,javy guerra
+732,tanner rainey,Washington Nationals,Pitcher,Bullpen,Active,663432,tanner rainey
+733,fernando rodney,Washington Nationals,Pitcher,Bullpen,Active,407845,fernando rodney
+734,tony sipp,Washington Nationals,Pitcher,Bullpen,Active,448609,tony sipp
+735,wander suero,Washington Nationals,Pitcher,Bullpen,Active,593833,wander suero
+736,sean doolittle,Washington Nationals,Pitcher,Bullpen,Active,448281,sean doolittle
+737,yan gomes,Washington Nationals,Catcher,Batter,Active,543228,yan gomes
+738,kurt suzuki,Washington Nationals,Catcher,Batter,Active,435559,kurt suzuki
+739,matt adams,Washington Nationals,Infield,Batter,Active,571431,matt adams
+740,brian dozier,Washington Nationals,Infield,Batter,Active,572821,brian dozier
+741,howie kendrick,Washington Nationals,Infield,Batter,Active,435062,howie kendrick
+742,anthony rendon,Washington Nationals,Infield,Batter,Active,543685,anthony rendon
+743,adrián sánchez,Washington Nationals,Infield,Batter,Active,506703,adrian sanchez
+744,trea turner,Washington Nationals,Infield,Batter,Active,607208,trea turner
+745,adam eaton,Washington Nationals,Outfield,Batter,Active,594809,adam eaton
+746,gerardo parra,Washington Nationals,Outfield,Batter,Active,467827,gerardo parra
+747,víctor robles,Washington Nationals,Outfield,Batter,Active,645302,victor robles
+748,juan soto,Washington Nationals,Outfield,Batter,Active,665742,juan soto
+749,kyle barraclough,Washington Nationals,Inactive,Inactive,Inactive,607457,kyle barraclough
+750,james bourque,Washington Nationals,Inactive,Inactive,Inactive,630263,james bourque
+751,erick fedde,Washington Nationals,Inactive,Inactive,Inactive,607200,erick fedde
+752,kyle mcgowin,Washington Nationals,Inactive,Inactive,Inactive,641851,kyle mcgowin
+753,jonny venters,Washington Nationals,Inactive,Inactive,Inactive,458924,jonny venters
+754,austin voth,Washington Nationals,Inactive,Inactive,Inactive,608723,austin voth
+755,austen williams,Washington Nationals,Inactive,Inactive,Inactive,657117,austen williams
+756,spencer kieboom,Washington Nationals,Inactive,Inactive,Inactive,571851,spencer kieboom
+757,raudy read    ( wilmer difo  ( carter kieboom,Washington Nationals,Inactive,Inactive,Inactive,,
+758,jake noll,Washington Nationals,Inactive,Inactive,Inactive,669738,jake noll
+759,ryan zimmerman,Washington Nationals,Inactive,Inactive,Inactive,475582,ryan zimmerman
+760,andrew stevenson  ( michael a. taylor,Washington Nationals,Inactive,Inactive,Inactive,,
+761,yu darvish,Chicago Cubs,Pitcher,Starter,Active,506433,yu darvish
+762,kyle hendricks,Chicago Cubs,Pitcher,Starter,Active,543294,kyle hendricks
+763,jon lester,Chicago Cubs,Pitcher,Starter,Active,452657,jon lester
+764,josé quintana,Chicago Cubs,Pitcher,Starter,Active,500779,jose quintana
+765,brad brach,Chicago Cubs,Pitcher,Bullpen,Active,542960,brad brach
+766,tyler chatwood,Chicago Cubs,Pitcher,Bullpen,Active,543022,tyler chatwood
+767,steve cishek,Chicago Cubs,Pitcher,Bullpen,Active,518553,steve cishek
+768,derek holland,Chicago Cubs,Pitcher,Bullpen,Active,502706,derek holland
+769,brandon kintzler,Chicago Cubs,Pitcher,Bullpen,Active,445213,brandon kintzler
+770,kyle ryan,Chicago Cubs,Pitcher,Bullpen,Active,594986,kyle ryan
+771,pedro strop,Chicago Cubs,Pitcher,Bullpen,Active,467008,pedro strop
+772,rowan wick,Chicago Cubs,Pitcher,Bullpen,Active,592858,rowan wick
+773,craig kimbrel,Chicago Cubs,Pitcher,Bullpen,Active,,
+774,víctor caratini,Chicago Cubs,Catcher,Batter,Active,605170,victor caratini
+775,willson contreras,Chicago Cubs,Catcher,Batter,Active,575929,willson contreras
+776,martín maldonado,Chicago Cubs,Catcher,Batter,Active,455117,martin maldonado
+777,javier báez,Chicago Cubs,Infield,Batter,Active,595879,javier baez
+778,david bote,Chicago Cubs,Infield,Batter,Active,623520,david bote
+779,kris bryant,Chicago Cubs,Infield,Batter,Active,592178,kris bryant
+780,robel garcía,Chicago Cubs,Infield,Batter,Active,,
+781,anthony rizzo,Chicago Cubs,Infield,Batter,Active,519203,anthony rizzo
+782,albert almora jr.,Chicago Cubs,Outfield,Batter,Active,546991,albert almora
+783,ian happ,Chicago Cubs,Outfield,Batter,Active,664023,ian happ
+784,jason heyward,Chicago Cubs,Outfield,Batter,Active,518792,jason heyward
+785,kyle schwarber,Chicago Cubs,Outfield,Batter,Active,656941,kyle schwarber
+786,adbert alzolay,Chicago Cubs,Inactive,Inactive,Inactive,640470,adbert alzolay
+787,xavier cedeño,Chicago Cubs,Inactive,Inactive,Inactive,,
+788,oscar de la cruz  ( carl edwards jr.,Chicago Cubs,Inactive,Inactive,Inactive,,
+789,cole hamels,Chicago Cubs,Inactive,Inactive,Inactive,430935,cole hamels
+790,dillon maples,Chicago Cubs,Inactive,Inactive,Inactive,596027,dillon maples
+791,alec mills,Chicago Cubs,Inactive,Inactive,Inactive,621219,alec mills
+792,james norwood,Chicago Cubs,Inactive,Inactive,Inactive,656803,james norwood
+793,randy rosario,Chicago Cubs,Inactive,Inactive,Inactive,600968,randy rosario
+794,justin steele,Chicago Cubs,Inactive,Inactive,Inactive,657006,justin steele
+795,duane underwood jr.,Chicago Cubs,Inactive,Inactive,Inactive,621249,duane underwood jr.
+796,taylor davis    ( daniel descalso,Chicago Cubs,Inactive,Inactive,Inactive,,
+797,addison russell    ( mark zagunis,Chicago Cubs,Inactive,Inactive,Inactive,,
+798,luis castillo,Cincinnati Reds,Pitcher,Starter,Active,622491,luis castillo
+799,anthony desclafani,Cincinnati Reds,Pitcher,Starter,Active,543101,anthony desclafani
+800,sonny gray,Cincinnati Reds,Pitcher,Starter,Active,543243,sonny gray
+801,tanner roark,Cincinnati Reds,Pitcher,Starter,Active,543699,tanner roark
+802,alex wood,Cincinnati Reds,Pitcher,Starter,Active,622072,alex wood
+803,amir garrett,Cincinnati Reds,Pitcher,Bullpen,Active,607237,amir garrett
+804,jared hughes,Cincinnati Reds,Pitcher,Bullpen,Active,453172,jared hughes
+805,michael lorenzen,Cincinnati Reds,Pitcher,Bullpen,Active,547179,michael lorenzen
+806,wandy peralta,Cincinnati Reds,Pitcher,Bullpen,Active,593974,wandy peralta
+807,lucas sims,Cincinnati Reds,Pitcher,Bullpen,Active,608371,lucas sims
+808,robert stephenson,Cincinnati Reds,Pitcher,Bullpen,Active,596112,robert stephenson
+809,raisel iglesias,Cincinnati Reds,Pitcher,Bullpen,Active,628452,raisel iglesias
+810,tucker barnhart,Cincinnati Reds,Catcher,Batter,Active,571466,tucker barnhart
+811,kyle farmer,Cincinnati Reds,Catcher,Batter,Active,571657,kyle farmer
+812,derek dietrich,Cincinnati Reds,Infield,Batter,Active,518618,derek dietrich
+813,scooter gennett,Cincinnati Reds,Infield,Batter,Active,,
+814,josé iglesias,Cincinnati Reds,Infield,Batter,Active,578428,jose iglesias
+815,josé peraza,Cincinnati Reds,Infield,Batter,Active,606299,jose peraza
+816,eugenio suárez,Cincinnati Reds,Infield,Batter,Active,553993,eugenio suarez
+817,joey votto,Cincinnati Reds,Infield,Batter,Active,458015,joey votto
+818,phillip ervin,Cincinnati Reds,Outfield,Batter,Active,640447,phillip ervin
+819,yasiel puig,Cincinnati Reds,Outfield,Batter,Active,624577,yasiel puig
+820,nick senzel,Cincinnati Reds,Outfield,Batter,Active,,
+821,josh vanmeter,Cincinnati Reds,Outfield,Batter,Active,,
+822,jesse winker,Cincinnati Reds,Outfield,Batter,Active,608385,jesse winker
+823,r. j. alaniz,Cincinnati Reds,Inactive,Inactive,Inactive,,
+824,matt bowman,Cincinnati Reds,Inactive,Inactive,Inactive,621199,matt bowman
+825,jimmy herget,Cincinnati Reds,Inactive,Inactive,Inactive,623474,jimmy herget
+826,david hernandez,Cincinnati Reds,Inactive,Inactive,Inactive,456696,david hernandez
+827,tyler mahle,Cincinnati Reds,Inactive,Inactive,Inactive,641816,tyler mahle
+828,keury mella,Cincinnati Reds,Inactive,Inactive,Inactive,622492,keury mella
+829,cody reed,Cincinnati Reds,Inactive,Inactive,Inactive,642003,cody reed
+830,sal romano,Cincinnati Reds,Inactive,Inactive,Inactive,607219,sal romano
+831,jackson stephens,Cincinnati Reds,Inactive,Inactive,Inactive,623451,jackson stephens
+832,curt casali,Cincinnati Reds,Inactive,Inactive,Inactive,592200,curt casali
+833,juan graterol    ( alex blandino,Cincinnati Reds,Inactive,Inactive,Inactive,,
+834,blake trahan,Cincinnati Reds,Inactive,Inactive,Inactive,664167,blake trahan
+835,scott schebler,Cincinnati Reds,Inactive,Inactive,Inactive,594988,scott schebler
+836,josé siri,Cincinnati Reds,Inactive,Inactive,Inactive,642350,jose siri
+837,chase anderson,Milwaukee Brewers,Pitcher,Starter,Active,502624,chase anderson
+838,zach davies,Milwaukee Brewers,Pitcher,Starter,Active,605200,zach davies
+839,gio gonzález,Milwaukee Brewers,Pitcher,Starter,Active,,
+840,freddy peralta,Milwaukee Brewers,Pitcher,Starter,Active,642547,freddy peralta
+841,matt albers,Milwaukee Brewers,Pitcher,Bullpen,Active,458006,matt albers
+842,alex claudio,Milwaukee Brewers,Pitcher,Bullpen,Active,592222,alex claudio
+843,junior guerra,Milwaukee Brewers,Pitcher,Bullpen,Active,448855,junior guerra
+844,adrian houser,Milwaukee Brewers,Pitcher,Bullpen,Active,605288,adrian houser
+845,jay jackson,Milwaukee Brewers,Pitcher,Bullpen,Active,,
+846,jeremy jeffress,Milwaukee Brewers,Pitcher,Bullpen,Active,502026,jeremy jeffress
+847,taylor williams,Milwaukee Brewers,Pitcher,Bullpen,Active,592865,taylor williams
+848,josh hader,Milwaukee Brewers,Pitcher,Bullpen,Active,623352,josh hader
+849,yasmani grandal,Milwaukee Brewers,Catcher,Batter,Active,518735,yasmani grandal
+850,manny piña,Milwaukee Brewers,Catcher,Batter,Active,444489,manny pina
+851,jesús aguilar,Milwaukee Brewers,Infield,Batter,Active,542583,jesus aguilar
+852,orlando arcia,Milwaukee Brewers,Infield,Batter,Active,606115,orlando arcia
+853,keston hiura,Milwaukee Brewers,Infield,Batter,Active,,
+854,mike moustakas,Milwaukee Brewers,Infield,Batter,Active,519058,mike moustakas
+855,tyler saladino,Milwaukee Brewers,Infield,Batter,Active,573135,tyler saladino
+856,travis shaw,Milwaukee Brewers,Infield,Batter,Active,543768,travis shaw
+857,eric thames,Milwaukee Brewers,Infield,Batter,Active,519346,eric thames
+858,ryan braun,Milwaukee Brewers,Outfield,Batter,Active,460075,ryan braun
+859,lorenzo cain,Milwaukee Brewers,Outfield,Batter,Active,456715,lorenzo cain
+860,ben gamel,Milwaukee Brewers,Outfield,Batter,Active,592325,ben gamel
+861,christian yelich,Milwaukee Brewers,Outfield,Batter,Active,592885,christian yelich
+862,jacob barnes,Milwaukee Brewers,Inactive,Inactive,Inactive,606930,jacob barnes
+863,corbin burnes,Milwaukee Brewers,Inactive,Inactive,Inactive,669203,corbin burnes
+864,jhoulys chacín,Milwaukee Brewers,Inactive,Inactive,Inactive,468504,jhoulys chacin
+865,marcos diplan,Milwaukee Brewers,Inactive,Inactive,Inactive,650959,marcos diplan
+866,donnie hart,Milwaukee Brewers,Inactive,Inactive,Inactive,643354,donnie hart
+867,jimmy nelson,Milwaukee Brewers,Inactive,Inactive,Inactive,519076,jimmy nelson
+868,burch smith,Milwaukee Brewers,Inactive,Inactive,Inactive,,
+869,trey supak,Milwaukee Brewers,Inactive,Inactive,Inactive,657022,trey supak
+870,aaron wilkerson,Milwaukee Brewers,Inactive,Inactive,Inactive,658792,aaron wilkerson
+871,brandon woodruff,Milwaukee Brewers,Inactive,Inactive,Inactive,605540,brandon woodruff
+872,david freitas,Milwaukee Brewers,Inactive,Inactive,Inactive,571679,david freitas
+873,jacob nottingham    ( mauricio dubón,Milwaukee Brewers,Inactive,Inactive,Inactive,,
+874,troy stokes jr.,Milwaukee Brewers,Inactive,Inactive,Inactive,657011,troy stokes jr.
+875,tyrone taylor,Milwaukee Brewers,Inactive,Inactive,Inactive,621438,tyrone taylor
+876,darío agrazal,Pittsburgh Pirates,Pitcher,Starter,Active,,
+877,chris archer,Pittsburgh Pirates,Pitcher,Starter,Active,502042,chris archer
+878,jordan lyles,Pittsburgh Pirates,Pitcher,Starter,Active,543475,jordan lyles
+879,joe musgrove,Pittsburgh Pirates,Pitcher,Starter,Active,605397,joe musgrove
+880,trevor williams,Pittsburgh Pirates,Pitcher,Starter,Active,592866,trevor williams
+881,kyle crick,Pittsburgh Pirates,Pitcher,Bullpen,Active,605195,kyle crick
+882,michael feliz,Pittsburgh Pirates,Pitcher,Bullpen,Active,593140,michael feliz
+883,keone kela,Pittsburgh Pirates,Pitcher,Bullpen,Active,605309,keone kela
+884,francisco liriano,Pittsburgh Pirates,Pitcher,Bullpen,Active,434538,francisco liriano
+885,alex mcrae,Pittsburgh Pirates,Pitcher,Bullpen,Active,,
+886,richard rodríguez,Pittsburgh Pirates,Pitcher,Bullpen,Active,593144,richard rodriguez
+887,chris stratton,Pittsburgh Pirates,Pitcher,Bullpen,Active,608717,chris stratton
+888,felipe vázquez,Pittsburgh Pirates,Pitcher,Bullpen,Active,553878,felipe vazquez
+889,elías díaz,Pittsburgh Pirates,Catcher,Batter,Active,553869,elias diaz
+890,jacob stallings,Pittsburgh Pirates,Catcher,Batter,Active,607732,jacob stallings
+891,josh bell,Pittsburgh Pirates,Infield,Batter,Active,605137,josh bell
+892,adam frazier,Pittsburgh Pirates,Infield,Batter,Active,624428,adam frazier
+893,jung-ho kang,Pittsburgh Pirates,Infield,Batter,Active,628356,jung ho kang
+894,colin moran,Pittsburgh Pirates,Infield,Batter,Active,592567,colin moran
+895,kevin newman,Pittsburgh Pirates,Infield,Batter,Active,621028,kevin newman
+896,josé osuna,Pittsburgh Pirates,Infield,Batter,Active,,josé osuna
+897,melky cabrera,Pittsburgh Pirates,Outfield,Batter,Active,466320,melky cabrera
+898,corey dickerson,Pittsburgh Pirates,Outfield,Batter,Active,572816,corey dickerson
+899,starling marte,Pittsburgh Pirates,Outfield,Batter,Active,516782,starling marte
+900,bryan reynolds,Pittsburgh Pirates,Outfield,Batter,Active,668804,bryan reynolds
+901,steven brault,Pittsburgh Pirates,Inactive,Inactive,Inactive,643230,steven brault
+902,j. t. brubaker,Pittsburgh Pirates,Inactive,Inactive,Inactive,664141,jt bubaker
+903,montana durapau,Pittsburgh Pirates,Inactive,Inactive,Inactive,,
+904,luis escobar,Pittsburgh Pirates,Inactive,Inactive,Inactive,650813,luis escobar
+905,geoff hartlieb,Pittsburgh Pirates,Inactive,Inactive,Inactive,,
+906,clay holmes,Pittsburgh Pirates,Inactive,Inactive,Inactive,605280,clay holmes
+907,mitch keller,Pittsburgh Pirates,Inactive,Inactive,Inactive,656605,mitch keller
+908,parker markel,Pittsburgh Pirates,Inactive,Inactive,Inactive,,
+909,dovydas neverauskas,Pittsburgh Pirates,Inactive,Inactive,Inactive,596720,dovydas neverauskas
+910,yefry ramírez,Pittsburgh Pirates,Inactive,Inactive,Inactive,606162,yefry ramirez
+911,kevin kramer,Pittsburgh Pirates,Inactive,Inactive,Inactive,596012,kevin kramer
+912,pablo reyes  ( cole tucker,Pittsburgh Pirates,Inactive,Inactive,Inactive,,
+913,jason martin,Pittsburgh Pirates,Inactive,Inactive,Inactive,641829,jason martin
+914,gregory polanco,Pittsburgh Pirates,Inactive,Inactive,Inactive,570256,gregory polanco
+915,jack flaherty,St. Louis Cardinals,Pitcher,Starter,Active,656427,jack flaherty
+916,dakota hudson,St. Louis Cardinals,Pitcher,Starter,Active,641712,dakota hudson
+917,miles mikolas,St. Louis Cardinals,Pitcher,Starter,Active,571945,miles mikolas
+918,daniel ponce de leon,St. Louis Cardinals,Pitcher,Starter,Active,594965,daniel ponce de leon
+919,adam wainwright,St. Louis Cardinals,Pitcher,Starter,Active,425794,adam wainwright
+920,john brebbia,St. Louis Cardinals,Pitcher,Bullpen,Active,605154,john brebbia
+921,giovanny gallegos,St. Louis Cardinals,Pitcher,Bullpen,Active,606149,giovanny gallegos
+922,john gant,St. Louis Cardinals,Pitcher,Bullpen,Active,607231,john gant
+923,mike mayers,St. Louis Cardinals,Pitcher,Bullpen,Active,594577,mike mayers
+924,andrew miller,St. Louis Cardinals,Pitcher,Bullpen,Active,453192,andrew miller
+925,michael wacha,St. Louis Cardinals,Pitcher,Bullpen,Active,608379,michael wacha
+926,tyler webb,St. Louis Cardinals,Pitcher,Bullpen,Active,643778,tyler webb
+927,carlos martínez,St. Louis Cardinals,Pitcher,Bullpen,Active,593372,carlos martinez
+928,andrew knizner,St. Louis Cardinals,Catcher,Batter,Active,,
+929,matt wieters,St. Louis Cardinals,Catcher,Batter,Active,446308,matt wieters
+930,paul dejong,St. Louis Cardinals,Infield,Batter,Active,657557,paul dejong
+931,tommy edman,St. Louis Cardinals,Infield,Batter,Active,,
+932,paul goldschmidt,St. Louis Cardinals,Infield,Batter,Active,502671,paul goldschmidt
+933,yairo muñoz,St. Louis Cardinals,Infield,Batter,Active,622168,yairo munoz
+934,rangel ravelo,St. Louis Cardinals,Infield,Batter,Active,,
+935,kolten wong,St. Louis Cardinals,Infield,Batter,Active,543939,kolten wong
+936,harrison bader,St. Louis Cardinals,Outfield,Batter,Active,664056,harrison bader
+937,dexter fowler,St. Louis Cardinals,Outfield,Batter,Active,451594,dexter fowler
+938,josé martínez,St. Louis Cardinals,Outfield,Batter,Active,500874,jose martinez
+939,tyler o'neill,St. Louis Cardinals,Outfield,Batter,Active,641933,tyler o'neill
+940,génesis cabrera,St. Louis Cardinals,Inactive,Inactive,Inactive,650893,genesis carbrera
+941,austin gomber,St. Louis Cardinals,Inactive,Inactive,Inactive,596295,austin gomber
+942,ryan helsley,St. Louis Cardinals,Inactive,Inactive,Inactive,664854,ryan helsley
+943,dominic leone,St. Louis Cardinals,Inactive,Inactive,Inactive,608678,dominic leone
+944,alex reyes    ( yadier molina,St. Louis Cardinals,Inactive,Inactive,Inactive,,
+945,matt carpenter ( jedd gyorko,St. Louis Cardinals,Inactive,Inactive,Inactive,,
+946,edmundo sosa,St. Louis Cardinals,Inactive,Inactive,Inactive,624641,edmundo sosa
+947,ramón urías,St. Louis Cardinals,Inactive,Inactive,Inactive,602104,ramon urias
+948,adolis garcía,St. Louis Cardinals,Inactive,Inactive,Inactive,666969,adolis garcia
+949,marcell ozuna,St. Louis Cardinals,Inactive,Inactive,Inactive,542303,marcell ozuna
+950,drew robinson,St. Louis Cardinals,Inactive,Inactive,Inactive,592685,drew robinson
+951,lane thomas,St. Louis Cardinals,Inactive,Inactive,Inactive,657041,lane thomas
+952,justin williams,St. Louis Cardinals,Inactive,Inactive,Inactive,642211,justin williams
+953,taylor clarke,Arizona Diamondbacks,Pitcher,Starter,Active,664199,taylor clarke
+954,zack greinke,Arizona Diamondbacks,Pitcher,Starter,Active,425844,zack greinke
+955,merrill kelly,Arizona Diamondbacks,Pitcher,Starter,Active,518876,merrill kelly
+956,robbie ray,Arizona Diamondbacks,Pitcher,Starter,Active,592662,robbie ray
+957,alex young,Arizona Diamondbacks,Pitcher,Starter,Active,,
+958,archie bradley,Arizona Diamondbacks,Pitcher,Bullpen,Active,605151,archie bradley
+959,andrew chafin,Arizona Diamondbacks,Pitcher,Bullpen,Active,605177,andrew chafin
+960,zack godley,Arizona Diamondbacks,Pitcher,Bullpen,Active,643327,zack godley
+961,yoshihisa hirano,Arizona Diamondbacks,Pitcher,Bullpen,Active,673633,yoshihisa hirano
+962,yoan lópez,Arizona Diamondbacks,Pitcher,Bullpen,Active,661255,yoan lopez
+963,t. j. mcfarland,Arizona Diamondbacks,Pitcher,Bullpen,Active,519008,t. j. mcfarland
+964,greg holland,Arizona Diamondbacks,Pitcher,Bullpen,Active,518813,greg holland
+965,alex avila,Arizona Diamondbacks,Catcher,Batter,Active,488671,alex avila
+966,carson kelly,Arizona Diamondbacks,Catcher,Batter,Active,608348,carson kelly
+967,nick ahmed,Arizona Diamondbacks,Infield,Batter,Active,605113,nick ahmed
+968,eduardo escobar,Arizona Diamondbacks,Infield,Batter,Active,500871,eduardo escobar
+969,wilmer flores,Arizona Diamondbacks,Infield,Batter,Active,527038,wilmer flores
+970,jake lamb,Arizona Diamondbacks,Infield,Batter,Active,571875,jake lamb
+971,ketel marte,Arizona Diamondbacks,Infield,Batter,Active,606466,ketel marte
+972,christian walker,Arizona Diamondbacks,Infield,Batter,Active,572233,christian walker
+973,jarrod dyson,Arizona Diamondbacks,Outfield,Batter,Active,502481,jarrod dyson
+974,adam jones,Arizona Diamondbacks,Outfield,Batter,Active,430945,adam jones
+975,tim locastro,Arizona Diamondbacks,Outfield,Batter,Active,641796,tim locastro
+976,david peralta,Arizona Diamondbacks,Outfield,Batter,Active,444482,david peralta
+977,yasmany tomás,Arizona Diamondbacks,Outfield,Batter,Active,,
+978,matt andriese,Arizona Diamondbacks,Inactive,Inactive,Inactive,542882,matt andriese
+979,stefan crichton,Arizona Diamondbacks,Inactive,Inactive,Inactive,,
+980,jon duplantier,Arizona Diamondbacks,Inactive,Inactive,Inactive,641541,jon duplantier
+981,joey krehbiel,Arizona Diamondbacks,Inactive,Inactive,Inactive,607216,joey krehbiel
+982,ben lively,Arizona Diamondbacks,Inactive,Inactive,Inactive,594902,ben lively
+983,joel payamps,Arizona Diamondbacks,Inactive,Inactive,Inactive,606303,joel payamps
+984,robby scott,Arizona Diamondbacks,Inactive,Inactive,Inactive,582494,robby scott
+985,jimmie sherfy,Arizona Diamondbacks,Inactive,Inactive,Inactive,642073,jimmie sherfy
+986,bo takahashi,Arizona Diamondbacks,Inactive,Inactive,Inactive,649963,bo takahashi
+987,emilio vargas,Arizona Diamondbacks,Inactive,Inactive,Inactive,642496,emilio vargas
+988,caleb joseph,Arizona Diamondbacks,Inactive,Inactive,Inactive,543376,caleb joseph
+989,kevin cron  ( domingo leyba,Arizona Diamondbacks,Inactive,Inactive,Inactive,,
+990,ildemaro vargas,Arizona Diamondbacks,Inactive,Inactive,Inactive,545121,ildemaro vargas
+991,blake swihart,Arizona Diamondbacks,Inactive,Inactive,Inactive,596119,blake swihart
+992,kyle freeland,Colorado Rockies,Pitcher,Starter,Active,607536,kyle freeland
+993,chi chi gonzalez,Colorado Rockies,Pitcher,Starter,Active,,
+994,jon gray,Colorado Rockies,Pitcher,Starter,Active,592351,jon gray
+995,peter lambert,Colorado Rockies,Pitcher,Starter,Active,,
+996,germán márquez,Colorado Rockies,Pitcher,Starter,Active,608566,german marquez
+997,chad bettis,Colorado Rockies,Pitcher,Bullpen,Active,518452,chad bettis
+998,jairo díaz,Colorado Rockies,Pitcher,Bullpen,Active,,
+999,carlos estévez,Colorado Rockies,Pitcher,Bullpen,Active,608032,carlos estevez
+1000,sam howard,Colorado Rockies,Pitcher,Bullpen,Active,,
+1001,jake mcgee,Colorado Rockies,Pitcher,Bullpen,Active,459429,jake mcgee
+1002,scott oberg,Colorado Rockies,Pitcher,Bullpen,Active,623184,scott oberg
+1003,bryan shaw,Colorado Rockies,Pitcher,Bullpen,Active,543766,bryan shaw
+1004,wade davis,Colorado Rockies,Pitcher,Bullpen,Active,451584,wade davis
+1005,chris iannetta,Colorado Rockies,Catcher,Batter,Active,455104,chris iannetta
+1006,tony wolters,Colorado Rockies,Catcher,Batter,Active,547172,tony wolters
+1007,yonder alonso,Colorado Rockies,Infield,Batter,Active,475174,yonder alonso
+1008,nolan arenado,Colorado Rockies,Infield,Batter,Active,571448,nolan arenado
+1009,garrett hampson,Colorado Rockies,Infield,Batter,Active,641658,garrett hampson
+1010,ryan mcmahon,Colorado Rockies,Infield,Batter,Active,641857,ryan mcmahon
+1011,daniel murphy,Colorado Rockies,Infield,Batter,Active,502517,daniel murphy
+1012,trevor story,Colorado Rockies,Infield,Batter,Active,596115,trevor story
+1013,charlie blackmon,Colorado Rockies,Outfield,Batter,Active,453568,charlie blackmon
+1014,david dahl,Colorado Rockies,Outfield,Batter,Active,621311,david dahl
+1015,ian desmond,Colorado Rockies,Outfield,Batter,Active,435622,ian desmond
+1016,raimel tapia,Colorado Rockies,Outfield,Batter,Active,606132,raimel tapia
+1017,yency almonte,Colorado Rockies,Inactive,Inactive,Inactive,622075,yency almonte
+1018,ryan castellani,Colorado Rockies,Inactive,Inactive,Inactive,624418,ryan castellani
+1019,phil diehl,Colorado Rockies,Inactive,Inactive,Inactive,,
+1020,jeff hoffman,Colorado Rockies,Inactive,Inactive,Inactive,656546,jeff hoffman
+1021,d. j. johnson,Colorado Rockies,Inactive,Inactive,Inactive,597113,dj johnson
+1022,justin lawrence,Colorado Rockies,Inactive,Inactive,Inactive,664875,justin lawrence
+1023,harrison musgrave,Colorado Rockies,Inactive,Inactive,Inactive,643466,harrison musgrave
+1024,james pazos,Colorado Rockies,Inactive,Inactive,Inactive,572021,james pazos
+1025,antonio senzatela,Colorado Rockies,Inactive,Inactive,Inactive,622608,antonio senzatela
+1026,jesús tinoco    ( josh fuentes  ( pat valaika,Colorado Rockies,Inactive,Inactive,Inactive,,
+1027,noel cuevas,Colorado Rockies,Inactive,Inactive,Inactive,571595,noel cuevas
+1028,yonathan daza,Colorado Rockies,Inactive,Inactive,Inactive,602074,yonathan daza
+1029,sam hilliard,Colorado Rockies,Inactive,Inactive,Inactive,656541,sam hilliard
+1030,walker buehler,Los Angeles Dodgers,Pitcher,Starter,Active,621111,walker buehler
+1031,clayton kershaw,Los Angeles Dodgers,Pitcher,Starter,Active,477132,clayton kershaw
+1032,kenta maeda,Los Angeles Dodgers,Pitcher,Starter,Active,628317,kenta maeda
+1033,hyun-jin ryu,Los Angeles Dodgers,Pitcher,Starter,Active,547943,hyun-jin ryu
+1034,pedro báez,Los Angeles Dodgers,Pitcher,Bullpen,Active,520980,pedro baez
+1035,j. t. chargois,Los Angeles Dodgers,Pitcher,Bullpen,Active,608638,j. t. chargois
+1036,caleb ferguson,Los Angeles Dodgers,Pitcher,Bullpen,Active,657571,caleb ferguson
+1037,yimi garcía,Los Angeles Dodgers,Pitcher,Bullpen,Active,554340,yimi garcia
+1038,joe kelly,Los Angeles Dodgers,Pitcher,Bullpen,Active,523260,joe kelly
+1039,casey sadler,Los Angeles Dodgers,Pitcher,Bullpen,Active,,
+1040,jaime schultz,Los Angeles Dodgers,Pitcher,Bullpen,Active,621289,jaime schultz
+1041,julio urías,Los Angeles Dodgers,Pitcher,Bullpen,Active,628711,julio urias
+1042,kenley jansen,Los Angeles Dodgers,Pitcher,Bullpen,Active,445276,kenley jansen
+1043,russell martin,Los Angeles Dodgers,Catcher,Batter,Active,431145,russell martin
+1044,will smith,Los Angeles Dodgers,Catcher,Batter,Active,519293,will smith
+1045,matt beaty,Los Angeles Dodgers,Infield,Batter,Active,607461,matt beaty
+1046,enrique hernández,Los Angeles Dodgers,Infield,Batter,Active,571771,enrique hernandez
+1047,max muncy,Los Angeles Dodgers,Infield,Batter,Active,571970,max muncy
+1048,corey seager,Los Angeles Dodgers,Infield,Batter,Active,608369,corey seager
+1049,justin turner,Los Angeles Dodgers,Infield,Batter,Active,457759,justin turner
+1050,tyler white,Los Angeles Dodgers,Infield,Batter,Active,643603,tyler white
+1051,cody bellinger,Los Angeles Dodgers,Outfield,Batter,Active,641355,cody bellinger
+1052,joc pederson,Los Angeles Dodgers,Outfield,Batter,Active,592626,joc pederson
+1053,a. j. pollock,Los Angeles Dodgers,Outfield,Batter,Active,572041,a.j. pollock
+1054,alex verdugo,Los Angeles Dodgers,Outfield,Batter,Active,657077,alex verdugo
+1055,scott alexander,Los Angeles Dodgers,Inactive,Inactive,Inactive,518397,scott alexander
+1056,yadier álvarez,Los Angeles Dodgers,Inactive,Inactive,Inactive,665751,yadier alvarez
+1057,dylan floro,Los Angeles Dodgers,Inactive,Inactive,Inactive,571670,dylan floro
+1058,tony gonsolin,Los Angeles Dodgers,Inactive,Inactive,Inactive,,
+1059,dennis santana,Los Angeles Dodgers,Inactive,Inactive,Inactive,642701,dennis santana
+1060,josh sborz,Los Angeles Dodgers,Inactive,Inactive,Inactive,622250,josh sborz
+1061,brock stewart,Los Angeles Dodgers,Inactive,Inactive,Inactive,592779,brock stewart
+1062,ross stripling,Los Angeles Dodgers,Inactive,Inactive,Inactive,548389,ross stripling
+1063,austin barnes,Los Angeles Dodgers,Inactive,Inactive,Inactive,605131,austin barnes
+1064,keibert ruiz,Los Angeles Dodgers,Inactive,Inactive,Inactive,660688,keibert ruiz
+1065,david freese,Los Angeles Dodgers,Inactive,Inactive,Inactive,501896,david freese
+1066,edwin ríos  ( chris taylor,Los Angeles Dodgers,Inactive,Inactive,Inactive,,
+1067,kyle garlick,Los Angeles Dodgers,Inactive,Inactive,Inactive,,
+1068,dinelson lamet,San Diego Padres,Pitcher,Starter,Active,,
+1069,eric lauer,San Diego Padres,Pitcher,Starter,Active,641778,eric lauer
+1070,joey lucchesi,San Diego Padres,Pitcher,Starter,Active,664192,joey lucchesi
+1071,chris paddack,San Diego Padres,Pitcher,Starter,Active,663978,chris paddack
+1072,cal quantrill,San Diego Padres,Pitcher,Starter,Active,,
+1073,michel báez,San Diego Padres,Pitcher,Bullpen,Active,,
+1074,robbie erlin,San Diego Padres,Pitcher,Bullpen,Active,572362,robbie erlin
+1075,adrian morejón,San Diego Padres,Pitcher,Bullpen,Active,,
+1076,andrés muñoz,San Diego Padres,Pitcher,Bullpen,Active,,
+1077,luis perdomo,San Diego Padres,Pitcher,Bullpen,Active,606131,luis perdomo
+1078,craig stammen,San Diego Padres,Pitcher,Bullpen,Active,489334,craig stammen
+1079,matt strahm,San Diego Padres,Pitcher,Bullpen,Active,621381,matt strahm
+1080,kirby yates,San Diego Padres,Pitcher,Bullpen,Active,489446,kirby yates
+1081,austin hedges,San Diego Padres,Catcher,Batter,Active,595978,austin hedges
+1082,francisco mejía,San Diego Padres,Catcher,Batter,Active,642336,francisco mejia
+1083,greg garcia,San Diego Padres,Infield,Batter,Active,594824,greg garcia
+1084,eric hosmer,San Diego Padres,Infield,Batter,Active,543333,eric hosmer
+1085,ian kinsler,San Diego Padres,Infield,Batter,Active,435079,ian kinsler
+1086,manny machado,San Diego Padres,Infield,Batter,Active,592518,manny machado
+1087,fernando tatís jr.,San Diego Padres,Infield,Batter,Active,665487,fernando tatis jr.
+1088,luis urías,San Diego Padres,Infield,Batter,Active,649966,luis urias
+1089,manuel margot,San Diego Padres,Outfield,Batter,Active,622534,manuel margot
+1090,wil myers,San Diego Padres,Outfield,Batter,Active,571976,wil myers
+1091,hunter renfroe,San Diego Padres,Outfield,Batter,Active,592669,hunter renfroe
+1092,franmil reyes,San Diego Padres,Outfield,Batter,Active,614177,franmil reyes
+1093,logan allen,San Diego Padres,Inactive,Inactive,Inactive,,
+1094,pedro ávila,San Diego Padres,Inactive,Inactive,Inactive,658648,pedro avila
+1095,anderson espinoza,San Diego Padres,Inactive,Inactive,Inactive,659262,anderson espinoza
+1096,nick margevicius,San Diego Padres,Inactive,Inactive,Inactive,676606,nick margevicius
+1097,gerardo reyes,San Diego Padres,Inactive,Inactive,Inactive,622103,gerardo reyes
+1098,robert stock,San Diego Padres,Inactive,Inactive,Inactive,476594,robert stock
+1099,brad wieck,San Diego Padres,Inactive,Inactive,Inactive,623364,brad wieck
+1100,trey wingenter,San Diego Padres,Inactive,Inactive,Inactive,622259,trey wingenter
+1101,austin allen,San Diego Padres,Inactive,Inactive,Inactive,664119,austin allen
+1102,luis torrens,San Diego Padres,Inactive,Inactive,Inactive,620443,luis torrens
+1103,ty france  ( javy guerra,San Diego Padres,Inactive,Inactive,Inactive,,
+1104,travis jankowski,San Diego Padres,Inactive,Inactive,Inactive,,
+1105,josh naylor,San Diego Padres,Inactive,Inactive,Inactive,,
+1106,edward olivares,San Diego Padres,Inactive,Inactive,Inactive,658668,edward olivares
+1107,shaun anderson,San Francisco Giants,Pitcher,Starter,Active,,
+1108,tyler beede,San Francisco Giants,Pitcher,Starter,Active,595881,tyler beede
+1109,madison bumgarner,San Francisco Giants,Pitcher,Starter,Active,518516,madison bumgarner
+1110,drew pomeranz,San Francisco Giants,Pitcher,Starter,Active,519141,drew pomeranz
+1111,jeff samardzija,San Francisco Giants,Pitcher,Starter,Active,502188,jeff samardzija
+1112,sam coonrod,San Francisco Giants,Pitcher,Bullpen,Active,656322,sam coonrod
+1113,sam dyson,San Francisco Giants,Pitcher,Bullpen,Active,473879,sam dyson
+1114,trevor gott,San Francisco Giants,Pitcher,Bullpen,Active,641627,trevor gott
+1115,mark melancon,San Francisco Giants,Pitcher,Bullpen,Active,453343,mark melancon
+1116,reyes moronta,San Francisco Giants,Pitcher,Bullpen,Active,606625,reyes moronta
+1117,tony watson,San Francisco Giants,Pitcher,Bullpen,Active,453265,tony watson
+1118,will smith,San Francisco Giants,Pitcher,Bullpen,Active,519293,will smith
+1119,buster posey,San Francisco Giants,Catcher,Batter,Active,457763,buster posey
+1120,stephen vogt,San Francisco Giants,Catcher,Batter,Active,,
+1121,brandon belt,San Francisco Giants,Infield,Batter,Active,474832,brandon belt
+1122,brandon crawford,San Francisco Giants,Infield,Batter,Active,543063,brandon crawford
+1123,zach green,San Francisco Giants,Infield,Batter,Active,,
+1124,joe panik,San Francisco Giants,Infield,Batter,Active,605412,joe panik
+1125,pablo sandoval,San Francisco Giants,Infield,Batter,Active,467055,pablo sandoval
+1126,donovan solano,San Francisco Giants,Infield,Batter,Active,,
+1127,tyler austin,San Francisco Giants,Outfield,Batter,Active,592122,tyler austin
+1128,alex dickerson,San Francisco Giants,Outfield,Batter,Active,,
+1129,kevin pillar,San Francisco Giants,Outfield,Batter,Active,607680,kevin pillar
+1130,austin slater,San Francisco Giants,Outfield,Batter,Active,596103,austin slater
+1131,mike yastrzemski,San Francisco Giants,Outfield,Batter,Active,,
+1132,melvin adon,San Francisco Giants,Inactive,Inactive,Inactive,661536,melvin adon
+1133,ray black,San Francisco Giants,Inactive,Inactive,Inactive,605143,ray black
+1134,jandel gustave,San Francisco Giants,Inactive,Inactive,Inactive,,
+1135,williams jerez,San Francisco Giants,Inactive,Inactive,Inactive,605301,williams jerez
+1136,conner menez,San Francisco Giants,Inactive,Inactive,Inactive,,
+1137,dereck rodríguez,San Francisco Giants,Inactive,Inactive,Inactive,605446,dereck rodriguez
+1138,andrew suarez,San Francisco Giants,Inactive,Inactive,Inactive,605498,andrew suarez
+1139,logan webb,San Francisco Giants,Inactive,Inactive,Inactive,657277,logan webb
+1140,aramis garcia    ( abiatal avelino,San Francisco Giants,Inactive,Inactive,Inactive,,
+1141,evan longoria    ( steven duggar,San Francisco Giants,Inactive,Inactive,Inactive,,
+1142,mike gerber,San Francisco Giants,Inactive,Inactive,Inactive,,
+1143,joey rickard,San Francisco Giants,Inactive,Inactive,Inactive,572073,joey rickard
+1144,chris shaw,San Francisco Giants,Inactive,Inactive,Inactive,622046,chris shaw
+5,domingo santana,Seattle Mariners,Outfield,Batter,Active,570267,domingo santana
+17,christian vazquez,Boston Red Sox,Infield,Batter,Active,543877,christian vazquez
+19,mike trout,Los Angeles Angels,Infield,Batter,Active,545361,mike trout
+32,stevie wilkerson,Baltimore Orioles,Infield,Batter,Active,592859,stevie wilkerson
+193,mac williamson,San Francisco Giants,Infield,Batter,Active,607776,mac williamson
+196,stephen vogt,San Francisco Giants,Outfield,Batter,Active,519390,stephen vogt
+267,albert almora jr.,Chicago Cubs,Catcher,Batter,Active,546991,albert almora jr.
+34,brendan rodgers,Colorado Rockies,Outfield,Batter,Active,663898,brendan rodgers
+44,cameron maybin,New York Yankees,Infield,Batter,Active,457727,cameron maybin
+106,carlos gomez,New York Mets,Infield,Batter,Active,460576,carlos gomez
+133,harold ramirez,Miami Marlins,Catcher,Batter,Active,623912,harold ramirez
+144,nick senzel,Cincinnati Reds,Infield,Batter,Active,669222,nick senzel
+159,keston hiura,Milwaukee Brewers,Catcher,Batter,Active,669374,keston hiura
+32,gio gonzalez,Milwaukee Brewers,Infield,Batter,Active,461829,gio gonzalez
+22,mallex smith,Seattle Mariners,Infield,Batter,Active,605480,mallex smith
+185,eloy jimenez,Chicago White Sox,Catcher,Batter,Active,650391,eloy jimenez
+188,charlie tilson,Chicago White Sox,Infield,Batter,Active,605508,charlie tilson
+236,eddie rosario,Minnesota Twins,Infield,Batter,Active,592696,eddie rosario
+238,miguel sano,Minnesota Twins,Infield,Batter,Active,593934,miguel sano
+37,nicky lopez,Kansas City Royals,Infield,Batter,Active,670032,nicky lopez
+60,j.p. crawford,Seattle Mariners,Catcher,Batter,Active,641487,j.p. crawford
+224,cole irvin,Philadelphia Phillies,Infield,Batter,Active,608344,cole irvin
+275,austin riley,Atlanta Braves,Outfield,Batter,Active,663586,austin riley
+15,adeiny hechavarria,New York Mets,Infield,Batter,Active,588751,adeiny hechavarria
+59,josh naylor,San Diego Padres,Outfield,Batter,Active,647304,josh naylor
+70,cavan biggio,Toronto Blue Jays,Infield,Batter,Active,624415,cavan biggio
+80,gregory soto,Detroit Tigers,Outfield,Batter,Active,642397,gregory soto
+87,rajai davis,New York Mets,Infield,Batter,Active,434658,rajai davis
+93,avisail garcia,Tampa Bay Rays,Infield,Batter,Active,541645,avisail garcia
+151,sandy leon,Boston Red Sox,Infield,Batter,Active,506702,sandy leon
+119,stephen piscotty,Oakland Athletics,Infield,Batter,Active,572039,stephen piscotty
+134,nick ramirez,Detroit Tigers,Outfield,Batter,Active,598286,nick ramirez
+251,kyle seager,Seattle Mariners,Outfield,Batter,Active,572122,kyle seager
+96,mike yastrzemski,San Francisco Giants,Outfield,Batter,Active,573262,mike yastrzemski
+42,brian goodwin,Los Angeles Angels,Catcher,Batter,Active,571718,brian goodwin
+191,addison russell,Chicago Cubs,Outfield,Batter,Active,608365,addison russell
+100,jack mayfield,Houston Astros,Outfield,Batter,Active,608686,jack mayfield
+171,cesar puello,Los Angeles Angels,Infield,Batter,Active,527049,cesar puello
+133,cheslor cuthbert,Kansas City Royals,Outfield,Batter,Active,596144,cheslor cuthbert
+140,nomar mazara,Texas Rangers,Infield,Batter,Active,608577,nomar mazara
+73,yandy diaz,Tampa Bay Rays,Outfield,Batter,Active,650490,yandy diaz
+172,brock holt,Boston Red Sox,Infield,Batter,Active,571788,brock holt
+201,genesis cabrera,St. Louis Cardinals,Outfield,Batter,Active,650893,genesis cabrera
+25,adam haseley,Philadelphia Phillies,Outfield,Batter,Active,656514,adam haseley
+111,donovan solano,San Francisco Giants,Infield,Batter,Active,456781,donovan solano
+139,christin stewart,Detroit Tigers,Infield,Batter,Active,621514,christin stewart
+78,didi gregorius,New York Yankees,Catcher,Batter,Active,544369,didi gregorius
+184,myles straw,Houston Astros,Infield,Batter,Active,664702,myles straw
+193,rookie davis,Pittsburgh Pirates,Infield,Batter,Active,606959,rookie davis
+200,josh reddick,Houston Astros,Infield,Batter,Active,502210,josh reddick
+201,yordan alvarez,Houston Astros,Infield,Batter,Active,670541,yordan alvarez
+131,rhys hoskins,Philadelphia Phillies,Outfield,Batter,Active,656555,rhys hoskins
+107,yadiel rivera,Miami Marlins,Infield,Batter,Active,592680,yadiel rivera
+89,harold castro,Detroit Tigers,Outfield,Batter,Active,605612,harold castro
+63,tim federowicz,Texas Rangers,Infield,Batter,Active,543148,tim federowicz
+43,wilfredo tovar,Los Angeles Angels,Catcher,Batter,Active,541600,wilfredo tovar
+143,phillip ervin,Cincinnati Reds,Outfield,Batter,Active,640447,phillip ervin
+63,justin upton,Los Angeles Angels,Outfield,Batter,Active,457708,justin upton
+298,kyle garlick,Los Angeles Dodgers,Outfield,Batter,Active,664247,kyle garlick
+137,jose iglesias,Cincinnati Reds,Outfield,Batter,Active,578428,jose iglesias
+63,bryan holaday,Miami Marlins,Infield,Batter,Active,592407,bryan holaday
+91,jose osuna,Pittsburgh Pirates,Infield,Batter,Active,591741,jose osuna
+120,bobby wilson,Detroit Tigers,Outfield,Batter,Active,435064,bobby wilson
+138,zack collins,Chicago White Sox,Infield,Batter,Active,641470,zack collins
+184,humberto arteaga,Kansas City Royals,Outfield,Batter,Active,600858,humberto arteaga
+42,jon jay,Chicago White Sox,Infield,Batter,Active,445055,jon jay
+72,mike freeman,Cleveland Indians,Outfield,Batter,Active,502273,mike freeman
+126,alex dickerson,San Francisco Giants,Infield,Batter,Active,543105,alex dickerson
+7,jackie bradley jr.,Boston Red Sox,Infield,Batter,Active,598265,jackie bradley jr.
+15,mike brosseau,Tampa Bay Rays,Infield,Batter,Active,670712,mike brosseau
+52,scooter gennett,Cincinnati Reds,Outfield,Batter,Active,571697,scooter gennett
+55,juan graterol,Cincinnati Reds,Outfield,Batter,Active,492802,juan graterol
+75,george springer,Houston Astros,Infield,Batter,Active,543807,george springer
+100,austin nola,Seattle Mariners,Outfield,Batter,Active,543592,austin nola
+103,kris negron,Seattle Mariners,Outfield,Batter,Active,502117,kris negron
+127,robel garcia,Chicago Cubs,Inactive,Inactive,Inactive,596825,robel garcia
+138,zach green,San Francisco Giants,Outfield,Batter,Active,608339,zach green
+141,tommy edman,St. Louis Cardinals,Outfield,Batter,Active,669242,tommy edman
+204,dinelson lamet,San Diego Padres,Infield,Batter,Active,659275,dinelson lamet
+220,bubba starling,Kansas City Royals,Outfield,Batter,Active,605490,bubba starling
+249,aj reed,Chicago White Sox,Infield,Batter,Active,607223,aj reed
+251,ryan goins,Chicago White Sox,Infield,Batter,Active,572365,ryan goins
+280,jaime barria,Los Angeles Angels,Catcher,Batter,Active,642545,jaime barria
+13,josh vanmeter,Cincinnati Reds,Outfield,Batter,Active,642165,josh vanmeter
+18,ryan lavarnway,Cincinnati Reds,Pitcher,Starter,Active,543432,ryan lavarnway
+61,nate lowe,Tampa Bay Rays,Catcher,Batter,Active,663993,nate lowe
+190,carlos correa,Houston Astros,Infield,Batter,Active,621043,carlos correa
+3,s. strasburg,Washington Nationals,Pitcher,Starter,Active,544931,s. strasburg
+6,m. bumgarner,San Francisco Giants,Pitcher,Starter,Active,518516,m. bumgarner
+18,e. rodriguez,Boston Red Sox,Pitcher,Starter,Active,593958,e. rodriguez
+201,genesis cabrera,St. Louis Cardinals,Pitcher,Starter,Active,650893,genesis cabrera
+25,griffin canning,Los Angeles Angels,Pitcher,Starter,Active,656288,griffin canning
+15,tommy milone,Seattle Mariners,Pitcher,Starter,Active,543548,tommy milone
+16,j.a. happ,New York Yankees,Pitcher,Starter,Active,457918,j.a. happ
+17,edwin jackson,Toronto Blue Jays,Pitcher,Starter,Active,429719,edwin jackson
+12,peter lambert,Colorado Rockies,Pitcher,Starter,Active,663567,peter lambert
+8,ryan weber,Boston Red Sox,Pitcher,Starter,Active,543901,ryan weber
+6,a. desclafani,Cincinnati Reds,Pitcher,Starter,Active,543101,a. desclafani
+8,shaun anderson,San Francisco Giants,Outfield,Batter,Active,641312,shaun anderson
+1,masahiro tanaka,New York Yankees,Pitcher,Starter,Active,547888,masahiro tanaka
+13,o. despaigne,Chicago White Sox,Pitcher,Starter,Active,628333,o. despaigne
+10,e. hernandez,Miami Marlins,Pitcher,Starter,Active,622694,e. hernandez
+14,e. hernandez,Boston Red Sox,Pitcher,Starter,Active,650382,d. hernandez
+3,zach plesac,Cleveland Indians,Pitcher,Starter,Active,668676,zach plesac
+5,a. senzatela,Colorado Rockies,Pitcher,Starter,Active,622608,a. senzatela
+22,cal quantrill,San Diego Padres,Pitcher,Starter,Active,615698,cal quantrill
+12,d. ponce de leon,St Louis Cardinals,Pitcher,Starter,Active,594965,d. ponce de leon
+12,dario agrazal,Pittsburgh Pirates,Pitcher,Starter,Active,642607,dario agrazal
+18,nestor cortes,New York Yankees,Pitcher,Starter,Active,641482,nestor cortes
+27,logan allen,Detroit Tigers,Pitcher,Starter,Active,663531,logan allen
+11,adam wainwright,St Louis Cardinals,Pitcher,Starter,Active,425794,adam wainwright
+10,zac gallen,Miami Marlins,Pitcher,Starter,Active,668678,zac gallen
+2,dallas keuchel,Atlanta Braves,Pitcher,Starter,Active,572971,dallas keuchel
+16,brett anderson,Oakland Athletics,Pitcher,Starter,Active,474463,brett anderson
+17,drew verhagen,Detroit Tigers,Pitcher,Starter,Active,572403,drew verhagen
+193,jose urquidy,Houston Astros,Catcher,Batter,Active,664353,jose urquidy
+24,a. wojciechowski,Baltimore Orioles,Pitcher,Starter,Active,592879,a. wojciechowski
+19,jakob junis,Kansas City Royals,Pitcher,Starter,Active,596001,jakob junis
+157,chi chi gonzalez,Colorado Rockies,Catcher,Batter,Active,592346,chi chi gonzalez
+22,mike clevinger,Cleveland Indians,Pitcher,Starter,Active,605182,mike clevinger
+6,tyler alexander,Detroit Tigers,Pitcher,Starter,Active,641302,tyler alexander
